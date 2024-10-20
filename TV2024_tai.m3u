@@ -1920,3 +1920,64 @@ https://7pal.short.gy/event2
 https://7pal.short.gy/event3
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/K6CT6m6.png" group-title="Sports", Event 4
 https://7pal.short.gy/event4
+
+
+
+#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/1200px-Sky_Sport_F1_-_Logo_2020.svg.png",Sky Sport F1
+http://p1.cvtv.xyz/f1?token=live
+#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://sender.epglogos.de/302x190_w/12181.png",Sky Sport Premier League
+http://p1.cvtv.xyz/pl?token=live
+#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Sky_Sport_Mix_Logo_2022.svg/1200px-Sky_Sport_Mix_Logo_2022.svg.png",Sky Sport Mix
+http://p1.cvtv.xyz/mix?token=live
+#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://sender.epglogos.de/302x190_w/623.png",Sky Sport Bundesliga
+http://p1.cvtv.xyz/bun?token=live
+#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Sky_Sport_Tennis.svg/1200px-Sky_Sport_Tennis.svg.png",Sky Sport Tennis
+http://p1.cvtv.xyz/tennis?token=live
+#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Sky_Sport_Austria_1_AT_Logo_2020.svg/1200px-Sky_Sport_Austria_1_AT_Logo_2020.svg.png",Sky Sport Austria 1
+http://p1.cvtv.xyz/SA1?token=live
+#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/1200px-Sky_Sport_-_Logo_2020.svg.png",Sky Sport A/B 2
+http://p1.cvtv.xyz/SA2?token=live
+#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/1200px-Sky_Sport_-_Logo_2020.svg.png",Sky Sport A/B 3
+http://p1.cvtv.xyz/SA3?token=live
+#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/1000px-DAZN_1_Logo.svg.png",DAZN 1
+http://p1.cvtv.xyz/DZ1?token=live
+#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/1200px-DAZN_2.svg.png",DAZN 2
+http://p1.cvtv.xyz/DZ2?token=live
+#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg.png",M+LC
+http://p1.cvtv.xyz/lc?token=live
+#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://gbcomcdn.com/uploads/production/5f574a8de2f9196327ad89f7/2021/02/sdf_logo_rgb_hoch_02.png",Sportdigital
+http://p1.cvtv.xyz/spd?token=live
+#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://www.programme-tv.net/imgre/fit/~2~channel~cd7b35ad736b1a9a.png/1200x800/quality/80/canalplus-premier-league.png",Canal+ Premier League
+http://p1.cvtv.xyz/cz?token=live
+#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png",Canal+ Sport
+http://p1.cvtv.xyz/cp1?token=live
+#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Canal%2B_Sport_2_PL.png/1200px-Canal%2B_Sport_2_PL.png",Canal+ Sport 2
+http://p1.cvtv.xyz/cp2?token=live
+#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/CANAL%2B_Sport_5.png/640px-CANAL%2B_Sport_5.png",Canal+ Sport 5
+http://p1.cvtv.xyz/cp5?token=live
+#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://media.info/l/o/1/1539.1690027797.png",TNT Sports 1 4Mbps for 4G
+http://p1.cvtv.xyz/tnt1?token=live
+#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://media.info/l/o/1/1540.1690027877.png",TNT Sports 2 4Mbps for 4G
+http://p1.cvtv.xyz/tnt2?token=live
+#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://media.info/l/o/5/5712.1690027954.png",TNT Sports 3 4Mbps for 4G
+http://p1.cvtv.xyz/tnt3?token=live
+#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://media.info/l/o/1/1491.1690027975.png",TNT Sports 4 4Mbps for 4G
+http://p1.cvtv.xyz/tnt4?token=live
+#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/tntsp5.png",TNT Sports 5 4Mbps for 4G
+http://p1.cvtv.xyz/tnt5?token=live
+#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://r.dcs.redcdn.pl/https/o2/n/edytorEPG/logo/logotype_391293.png",Eleven Sports 1
+http://p1.cvtv.xyz/E1?token=live
+#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://r.dcs.redcdn.pl/https/o2/n/edytorEPG/logo/logotype_391296.png",Eleven Sports 2
+http://p1.cvtv.xyz/E2?token=live
+#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/1200px-Eurosport_1_Logo_2015.svg.png",Eurosport 1
+http://p1.cvtv.xyz/es1?token=live
+#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eurosport_2_Logo_2015.svg/1200px-Eurosport_2_Logo_2015.svg.png",Eurosport 2
+http://p1.cvtv.xyz/es2?token=live
+#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://images.nbcolympics.com/sites/default/files/networks-light/2024-06/NBC-Logo-Stacked-ColorBlack-318x300.png",NBC
+http://p1.cvtv.xyz/nbc?token=live
+#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/1200px-CBS_logo_%282020%29.svg.png",CBS
+http://p1.cvtv.xyz/cbs?token=live
+#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/ITV1_logo_%282022%29.svg/1200px-ITV1_logo_%282022%29.svg.png",ITV1
+http://p1.cvtv.xyz/itv1?token=live
+#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/ITV4_logo_%282022%29.svg/1200px-ITV4_logo_%282022%29.svg.png",ITV4
+http://p1.cvtv.xyz/itv4?token=live
