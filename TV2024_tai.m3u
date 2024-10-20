@@ -1981,3 +1981,13 @@ http://p1.cvtv.xyz/cbs?token=live
 http://p1.cvtv.xyz/itv1?token=live
 #EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/ITV4_logo_%282022%29.svg/1200px-ITV4_logo_%282022%29.svg.png",ITV4
 http://p1.cvtv.xyz/itv4?token=live
+
+#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/event.png",CVmedia Live
+#EXTVLCOPT:http-user-agent=cvmedia/1.0.0
+http://p1.cvtv.xyz/fpt?token=live
+
+#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/vspuhdnew.png",V Sport Ultra HD
+http://p1.cvtv.xyz/uhd?token=live
+
+#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png",FS2
+http://p1.cvtv.xyz/fs2?token=live
