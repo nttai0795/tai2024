@@ -45,11 +45,11 @@ udp://@225.1.1.165:30120
 udp://@225.1.1.185:30120
 #EXTINF:0 tvg-id="htvcdulichhd" group-title="HTV" tvg-logo="https://i.imgur.com/XxIO0E0.png",HTVC Du Lịch và Cuộc Sống
 udp://@225.1.1.166:30120
-#EXTINF:0 tvg-id="htvcgiadinhhd" group-title="HTV" tvg-logo="https://i.imgur.com/3WanRsM.png",HTVC Gia Đình
+#EXTINF:0 tvg-id="htvcgiadinhhd" group-title="HTV" tvg-logo="https://i.imgur.com/KxWRNH6.png",HTVC Gia Đình
 udp://@225.1.1.170:30120
-#EXTINF:0 tvg-id="htvcphimhd" group-title="HTV" tvg-logo="https://i.imgur.com/W16kIQP.png",HTVC Phim
+#EXTINF:0 tvg-id="htvcphimhd" group-title="HTV" tvg-logo="https://i.imgur.com/SXV3ya9.png",HTVC Phim
 udp://@225.1.1.184:30120
-#EXTINF:0 tvg-id="htvcphunuhd" group-title="HTV" tvg-logo="https://i.imgur.com/MyyovVe.png",HTVC Phụ Nữ
+#EXTINF:0 tvg-id="htvcphunuhd" group-title="HTV" tvg-logo="https://i.imgur.com/PLliKL6.png",HTVC Phụ Nữ
 udp://@225.1.1.171:30120
 #EXTINF:0 tvg-id="htvcthuanviet" group-title="HTV" tvg-logo="https://i.imgur.com/xmISDWo.png",HTVC Thuần Việt
 udp://@225.1.1.186:30120
@@ -59,13 +59,13 @@ udp://@225.1.1.181:30120
 udp://@225.1.1.180:30120
 #EXTINF:0 tvg-id="htv3" group-title="HTV" tvg-logo="https://i.imgur.com/2iE01Ca.png",HTV3
 udp://@225.1.1.178:30120
-#EXTINF:0 tvg-id="htvkey" group-title="HTV" tvg-logo="https://i.imgur.com/wrH7U0X.png",HTV Keys
+#EXTINF:0 tvg-id="htvkey" group-title="HTV" tvg-logo="https://i.imgur.com/13jHqoG.png",HTV Keys
 udp://@225.1.1.177:30120
 #EXTINF:0 tvg-id="htv1" group-title="HTV" tvg-logo="https://i.imgur.com/oLm4dbV.png",HTV1
 udp://@225.1.3.125:30120
 #EXTINF:0 tvg-id="htv3" group-title="HTV" tvg-logo="https://i.imgur.com/2iE01Ca.png",HTV3
 udp://@225.1.3.36:30120
-#EXTINF:0 tvg-id="htvkey" group-title="HTV" tvg-logo="https://i.imgur.com/wrH7U0X.png",HTV Keys
+#EXTINF:0 tvg-id="htvkey" group-title="HTV" tvg-logo="https://i.imgur.com/13jHqoG.png",HTV Keys
 udp://@225.1.3.127:30120
 
 #EXTINF:-1 tvg-id="htv1" group-title="HTV" tvg-logo="https://i.imgur.com/KEMSBD3.png",HTV1_Viettel
