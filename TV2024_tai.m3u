@@ -451,305 +451,6 @@ udp://@225.1.1.167:30120
 
 
 
-#-------------------FPT Play-------------------#
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1
-udp://@225.1.4.1:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2
-udp://@225.1.4.2:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/7rLCvgS.png",VTV3
-udp://@225.1.4.3:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/9zVTtsA.png",VTV4
-udp://@225.1.4.4:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5
-udp://@225.1.4.5:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV Cần Thơ
-udp://@225.1.4.6:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV Cần Thơ
-udp://@225.1.4.108:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/AgamSNe.png",VTV7
-udp://@225.1.4.201:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/lpcltL9.png",VTV8
-udp://@225.1.4.7:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/Ex1VkGQ.png",VTV9
-udp://@225.1.4.8:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/mIUWkDx.png",VTV5 Tây Nam Bộ
-udp://@225.1.4.184:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/R8c2swd.png",VTV5 Tây Nguyên
-udp://@225.1.4.179:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/hS4bgHe.png",VTC3 HD
-udp://@225.1.4.42:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/5cwYPTt.png",VTC4 HD
-udp://@225.1.4.43:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/LPdjM0z.png",VTC6 HD
-udp://@225.1.4.45:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/cnAht7i.png",VTC9 HD
-udp://@225.1.4.48:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/PaVbyxg.png",VTC10 HD
-udp://@225.1.4.49:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/phXvB0t.png",VTC14 HD
-udp://@225.1.4.53:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/rltq2Dy.png",VTC16 HD
-udp://@225.1.4.54:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/f3KlwDX.png",HTV2 Vie Channel
-udp://@225.1.4.56:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/RSlvzAs.png",HTV7 HD
-udp://@225.1.4.59:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/wdS7Cr9.png",HTV9 HD
-udp://@225.1.4.11:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/z7NOxJ3.png",HTV THỂ THAO
-udp://@225.1.4.60:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/XxIO0E0.png",HTVC Du Lịch và Cuộc Sống
-udp://@225.1.4.67:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/ZHVkEIC.png",HTVC Ca Nhạc
-udp://@225.1.4.223:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/3WanRsM.png",HTVC Gia Đình
-udp://@225.1.4.64:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/W16kIQP.png",HTVC Phim
-udp://@225.1.4.63:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/MyyovVe.png",HTVC Phụ Nữ
-udp://@225.1.4.66:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/xmISDWo.png",HTVC Thuần Việt
-udp://@225.1.4.62:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/SQ9cLJj.png",HTVC+
-udp://@225.1.4.91:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/pSIvTkZ.png",SCTV6
-udp://@225.1.4.211:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/eGkFbAh.png",ANTV HD
-udp://@225.1.4.221:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/Ud78FHF.png",Nhân Dân TV
-udp://@225.1.4.98:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/YtZGuSy.png",Quốc Hội HD
-udp://@225.1.4.148:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/UIGZw0y.png",QPVN
-udp://@225.1.4.170:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/GmefCpv.png",VNEWS
-udp://@225.1.4.219:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/05t6W7v.png",BGTV HD _ TH Bắc Giang
-udp://@225.1.4.173:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/mwCTDMj.png",H1 HD _ TH Hà Nội
-udp://@225.1.4.203:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/UfOw13y.png",THĐT1 HD _ TH Đồng Tháp
-udp://@225.1.4.125:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/WXebESa.png",THĐT2 Miền Tây
-udp://@225.1.4.177:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/gvPtTR2.png",THVL1 HD _ TH Vĩnh Long
-udp://@225.1.4.202:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/wYadDFn.png",THVL2 HD _ TH Vĩnh Long
-udp://@225.1.4.87:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/B8S0dyG.png",THVL3 HD _ TH Vĩnh Long
-udp://@225.1.4.176:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/xYalJzh.png",THVL4 HD _ TH Vĩnh Long
-udp://@225.1.4.217:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/dHOm6Ll.png",THTV HD _ TH Trà Vinh
-udp://@225.1.4.164:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/a3joZFM.png",HGTV HD _ TH Hậu Giang
-udp://@225.1.4.133:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/UI80qhw.png",ABC AUSTRALIA
-udp://@225.1.4.19:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/TBgGuJy.png",Animal Planet
-udp://@225.1.4.209:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/bLjwPFU.png",Animax HD
-udp://@225.1.4.168:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/KL9oaqc.png",Asian Food Network
-udp://@225.1.4.36:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/Rwm7Lod.png",AXN
-udp://@225.1.4.9:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/0t99xJZ.png",BBC CBeeBies
-udp://@225.1.4.29:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/qUiM77S.png",BBC Earth
-udp://@225.1.4.21:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/i7aYwdZ.png",BBC Lifestyle
-udp://@225.1.4.23:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/hsByQfe.png",BBC News
-udp://@225.1.4.22:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/rxFZgIK.png",BLOOMBERG
-udp://@225.1.4.18:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/rRDAzm4.png",Boomerang
-udp://@225.1.4.16:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/6oXQdBZ.png",CARTOON NETWORK
-udp://@225.1.4.13:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/RIQE8kA.png",CNA
-udp://@225.1.4.76:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/RCd9AM9.png",CNN
-udp://@225.1.4.17:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/t9fzARL.png",Da Vinci
-udp://@225.1.4.208:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/STCTI1F.png",Discovery Asia
-udp://@225.1.4.25:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/2JR5vSZ.png",Discovery Channel
-udp://@225.1.4.24:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/N69Cori.png",Dreamworks
-udp://@225.1.4.39:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/Ppi36a4.png",DW (English)
-udp://@225.1.4.75:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/ALDt1JX.png",FASHION TV
-udp://@225.1.4.20:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/YF2zMTz.png",FRANCE 24
-udp://@225.1.4.212:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO
-udp://@225.1.4.90:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO
-udp://@225.1.4.183:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/vylHBC8.png",KBS WORLD
-udp://@225.1.4.214:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/Et3vExm.png",NHK WORLD JAPAN
-udp://@225.1.4.73:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/x4zXtYX.png",Outdoor Channel
-udp://@225.1.4.210:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/ZStxdQI.png",TLC
-udp://@225.1.4.26:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/D8zXF7p.png",TV5 MONDE ASIE
-udp://@225.1.4.213:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/B9AVT2i.png",WBTV HD
-udp://@225.1.4.14:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",VTC2
-udp://@225.1.4.41:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",VTC5
-udp://@225.1.4.44:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",VTC7
-udp://@225.1.4.46:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",VTC8
-udp://@225.1.4.47:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",VTC11
-udp://@225.1.4.50:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",HTV1
-udp://@225.1.4.55:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",HTV3
-udp://@225.1.4.57:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",HTV Keys
-udp://@225.1.4.58:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",QTV3 HD _ TH Quảng Ninh
-udp://@225.1.4.86:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",BPTV2 HD _ TH Bình Phước
-udp://@225.1.4.80:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",BTV2 HD _ TH Bình Dương
-udp://@225.1.4.81:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",ĐNRTV2 HD _ TH Đồng Nai
-udp://@225.1.4.85:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Arirang
-udp://@225.1.4.74:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",CNBC
-udp://@225.1.4.77:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",VOV TV
-udp://@225.1.4.220:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",BTV9 An Viên HD
-udp://@225.1.4.99:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Bạc Liêu HD
-udp://@225.1.4.109:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Bắc Ninh HD
-udp://@225.1.4.110:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Bến Tre HD
-udp://@225.1.4.111:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Bình Định HD
-udp://@225.1.4.112:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Bình Phước 1 HD
-udp://@225.1.4.113:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Bình Thuận HD
-udp://@225.1.4.114:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Bình Dương 1 HD
-udp://@225.1.4.115:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Cà Mau HD
-udp://@225.1.4.117:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Cần Thơ HD
-udp://@225.1.4.118:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Cao Bằng HD
-udp://@225.1.4.119:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Đà Nẵng 1 HD
-udp://@225.1.4.120:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Đà Nẵng 2 HD
-udp://@225.1.4.121:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Đắk Lắk HD
-udp://@225.1.4.122:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Điện Biên HD
-udp://@225.1.4.123:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Đồng Nai 1 HD
-udp://@225.1.4.124:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Gia Lai HD
-udp://@225.1.4.126:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Hà Giang HD
-udp://@225.1.4.127:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Hà Nam
-udp://@225.1.4.128:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Hà Tĩnh HD
-udp://@225.1.4.129:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Hải Dương HD
-udp://@225.1.4.130:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Hải Phòng HD
-udp://@225.1.4.131:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Hà Nội 2 HD
-udp://@225.1.4.132:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Hòa Bình HD
-udp://@225.1.4.134:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Thừa Thiên Huế
-udp://@225.1.4.135:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Hưng Yên
-udp://@225.1.4.136:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Khánh Hòa HD
-udp://@225.1.4.137:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Kiên Giang HD
-udp://@225.1.4.138:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Kon Tum HD
-udp://@225.1.4.139:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Lai Châu HD
-udp://@225.1.4.140:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Lâm Đồng HD
-udp://@225.1.4.141:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Lạng Sơn HD
-udp://@225.1.4.142:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Lào Cai HD
-udp://@225.1.4.143:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Long An
-udp://@225.1.4.144:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Nam Định
-udp://@225.1.4.145:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Nghệ An HD
-udp://@225.1.4.146:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Ninh Bình HD
-udp://@225.1.4.147:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Ninh Thuận HD
-udp://@225.1.4.149:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Phú Thọ HD
-udp://@225.1.4.150:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Phú Yên HD
-udp://@225.1.4.151:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Quảng Bình
-udp://@225.1.4.152:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Quảng Nam HD
-udp://@225.1.4.153:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Quảng Ngãi HD
-udp://@225.1.4.154:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",QTV1 HD _ TH Quảng Ninh
-udp://@225.1.4.155:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Quảng Trị HD
-udp://@225.1.4.156:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Sóc Trăng 1
-udp://@225.1.4.157:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Sơn La
-udp://@225.1.4.158:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Tây Ninh 11 HD
-udp://@225.1.4.159:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Thái Bình HD
-udp://@225.1.4.160:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Thái Nguyên 1 HD
-udp://@225.1.4.161:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Thanh Hóa
-udp://@225.1.4.162:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Tiền Giang HD
-udp://@225.1.4.163:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Tuyên Quang HD
-udp://@225.1.4.165:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Vĩnh Phúc HD
-udp://@225.1.4.166:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Yên Bái HD
-udp://@225.1.4.167:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",An Giang HD
-udp://@225.1.4.171:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Vũng Tàu HD
-udp://@225.1.4.172:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Bắc Kạn HD
-udp://@225.1.4.174:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Hải Phòng + HD
-udp://@225.1.4.178:30120
 
 
 
@@ -1153,36 +854,6 @@ https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC13/index.m3u8
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
 
 
-#EXTINF:-1 tvg-id="" group-title="Quốc tế",BOX MOVIE HD
-http://thvip.site/360/159/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Quốc tế",HOLLYWOOD CLASSICS HD
-http://thvip.site/360/160/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Quốc tế",IN THE BOX HD
-http://thvip.site/360/235/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Quốc tế",HAPPY KIDS HD
-http://thvip.site/360/212/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Quốc tế",PLANET EARTH HD
-http://thvip.site/360/135/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Quốc tế",WOMAN HD
-http://thvip.site/360/163/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Quốc tế",MAN HD
-http://thvip.site/360/237/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Quốc tế",DR. FIT HD
-http://thvip.site/360/162/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Quốc tế",OUTDOOR HD
-http://thvip.site/360/216/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Quốc tế",HISTORY HD
-http://thvip.site/360/9856/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Quốc tế",CARTOON NETWORK HD
-http://s4.nihontv.net:21585/cartoon/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Quốc tế",DA VINCI HD
-http://thvip.site/360/214/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Quốc tế",BOX MUSIC HD
-http://thvip.site/360/289/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Quốc tế",ASIAN FOOD NETWORK HD
-http://thvip.site/360/215/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Quốc tế",HGTV HD
-http://thvip.site/360/99/index.m3u8
 
 #EXTINF:-1 tvg-id="arirang" group-title="Quốc tế" group-logo="https://cdn.hqth.me/logo/category/news.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/214.png", Arirang
 https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8
@@ -1482,187 +1153,185 @@ http://211.23.114.106:8527/http/60.251.39.91:8081/hls/67/809/ch26.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
 
 
-#EXTINF:-1 group-title="🇯🇵 Nhật Bản" tvg-id="nhkg_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G 
+#EXTINF:-1 group-title="Nhật Bản" tvg-id="nhkg_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G 
 https://vnpt.nekocdn.xyz/b783a989-9e73-4bce-bfa3-9996a9eaa455.m3u8
-#EXTINF:-1 group-title="🇯🇵 Nhật Bản" tvg-id="nhke_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png",NHK E
+#EXTINF:-1 group-title="Nhật Bản" tvg-id="nhke_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png",NHK E
 https://vnpt.nekocdn.xyz/d074504f-ca7a-467e-a67c-a91e69461775.m3u8
-#EXTINF:-1 group-title="🇯🇵 Nhật Bản" tvg-id="ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png",NTV
+#EXTINF:-1 group-title="Nhật Bản" tvg-id="ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png",NTV
 https://vnpt.nekocdn.xyz/427b3914-a2b4-401b-b5ed-706158d73908.m3u8
-#EXTINF:-1 group-title="🇯🇵 Nhật Bản" tvg-id="tbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/2560px-Tokyo_Broadcasting_System_logo_2020.svg.png",TBS 
+#EXTINF:-1 group-title="Nhật Bản" tvg-id="tbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/2560px-Tokyo_Broadcasting_System_logo_2020.svg.png",TBS 
 https://vnpt.nekocdn.xyz/memfs/d90fa53e-51d2-4364-aa9b-480a883a2bfb.m3u8
-#EXTINF:-1 group-title="🇯🇵 Nhật Bản" tvg-id="fuji_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png",Fuji TV
+#EXTINF:-1 group-title="Nhật Bản" tvg-id="fuji_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png",Fuji TV
 https://vnpt.nekocdn.xyz/memfs/5417ea42-1305-40d2-b318-bcc9552fe3fb.m3u8
-#EXTINF:-1 group-title="🇯🇵 Nhật Bản" tvg-id="tv_asahi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/2560px-TV_Asahi_Logo.svg.png",TV Asahi
+#EXTINF:-1 group-title="Nhật Bản" tvg-id="tv_asahi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/2560px-TV_Asahi_Logo.svg.png",TV Asahi
 https://vnpt.nekocdn.xyz/0fc25793-9d0a-459d-b645-46254bd89616.m3u8
-#EXTINF:-1 group-title="🇯🇵 Nhật Bản" tvg-id="tv_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/2560px-TV_Tokyo_logo_2023.svg.png",TV Tokyo 
+#EXTINF:-1 group-title="Nhật Bản" tvg-id="tv_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/2560px-TV_Tokyo_logo_2023.svg.png",TV Tokyo 
 https://vnpt.nekocdn.xyz/memfs/202bea4f-c55a-4dbc-a5f3-66343cc98b0b.m3u8
-#EXTINF:-1 group-title="🇯🇵 Nhật Bản" tvg-id="tokyo_mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",TOKYO MX1
+#EXTINF:-1 group-title="Nhật Bản" tvg-id="tokyo_mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",TOKYO MX1
 https://vnpt.nekocdn.xyz/memfs/b9925493-fc55-40fe-b813-07ead8974f3f.m3u8
-#EXTINF:-1 group-title="🇯🇵 Nhật Bản" tvg-id="nhkg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK G Osaka
+#EXTINF:-1 group-title="Nhật Bản" tvg-id="nhkg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK G Osaka
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06
-#EXTINF:-1 group-title="🇯🇵 Nhật Bản" tvg-id="mbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/2560px-Mainichi_Broadcasting_System_logo.svg.png", MBS
+#EXTINF:-1 group-title="Nhật Bản" tvg-id="mbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/2560px-Mainichi_Broadcasting_System_logo.svg.png", MBS
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx01
-#EXTINF:-1 group-title="🇯🇵 Nhật Bản" tvg-id="ytv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/2560px-Yomiuri_Telecasting_Corporation_Logo.svg.png", Yomiuri TV  
+#EXTINF:-1 group-title="Nhật Bản" tvg-id="ytv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/2560px-Yomiuri_Telecasting_Corporation_Logo.svg.png", Yomiuri TV  
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx04
-#EXTINF:-1 group-title="🇯🇵 Nhật Bản" tvg-id="suntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/SUN-TV_wordmark_2019.png", SUN TV
+#EXTINF:-1 group-title="Nhật Bản" tvg-id="suntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/SUN-TV_wordmark_2019.png", SUN TV
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07
-#EXTINF:-1 group-title="🇯🇵 Nhật Bản" tvg-id="nhk_bs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png", NHK BS
+#EXTINF:-1 group-title="Nhật Bản" tvg-id="nhk_bs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png", NHK BS
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11
-#EXTINF:-1 group-title="🇯🇵 Nhật Bản" tvg-id="nhk_bsp4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/NHK_BSP4K.png", NHK BSP 4K
+#EXTINF:-1 group-title="Nhật Bản" tvg-id="nhk_bsp4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/NHK_BSP4K.png", NHK BSP 4K
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01
-#EXTINF:-1 group-title="🇯🇵 Nhật Bản" tvg-id="ＢＳ日テレ.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BS4_logo.svg/1200px-BS4_logo.svg.png", BS NTV
+#EXTINF:-1 group-title="Nhật Bản" tvg-id="ＢＳ日テレ.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BS4_logo.svg/1200px-BS4_logo.svg.png", BS NTV
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs02
-#EXTINF:-1 group-title="🇯🇵 Nhật Bản" tvg-id="ＢＳ朝日１.jp" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bs_asahi.png", BS Asahi  
+#EXTINF:-1 group-title="Nhật Bản" tvg-id="ＢＳ朝日１.jp" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bs_asahi.png", BS Asahi  
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03
-#EXTINF:-1 group-title="🇯🇵 Nhật Bản" tvg-id="ＢＳ－ＴＢＳ.jp" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bs-tbs-jp.png", BS TBS
+#EXTINF:-1 group-title="Nhật Bản" tvg-id="ＢＳ－ＴＢＳ.jp" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bs-tbs-jp.png", BS TBS
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs04
-#EXTINF:-1 group-title="🇯🇵 Nhật Bản" tvg-id="BSテレ東.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/BS_TV_Tokyo_%28Japanese%29_2023.svg/2560px-BS_TV_Tokyo_%28Japanese%29_2023.svg.png", BS TV Tokyo
+#EXTINF:-1 group-title="Nhật Bản" tvg-id="BSテレ東.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/BS_TV_Tokyo_%28Japanese%29_2023.svg/2560px-BS_TV_Tokyo_%28Japanese%29_2023.svg.png", BS TV Tokyo
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05
-#EXTINF:-1 group-title="🇯🇵 Nhật Bản" tvg-id="ＢＳフジ・181.jp" tvg-logo="https://www.bsfuji.tv/top/index/img/sns_img.png", BS Fuji HD
+#EXTINF:-1 group-title="Nhật Bản" tvg-id="ＢＳフジ・181.jp" tvg-logo="https://www.bsfuji.tv/top/index/img/sns_img.png", BS Fuji HD
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06
-#EXTINF:-1 group-title="🇯🇵 Nhật Bản" tvg-id="ＷＯＷＯＷプライム.jp" tvg-logo="https://corporate.wowow.co.jp/recruit/assets/img/logo-wowow_prime.png", WOWOW Prime 
+#EXTINF:-1 group-title="Nhật Bản" tvg-id="ＷＯＷＯＷプライム.jp" tvg-logo="https://corporate.wowow.co.jp/recruit/assets/img/logo-wowow_prime.png", WOWOW Prime 
 https://vnpt.nekocdn.xyz/c7f9407a-6fcb-46e2-a649-98c15ffe0a6e.m3u8
-#EXTINF:-1 group-title="🇯🇵 Nhật Bản" tvg-id="ＷＯＷＯＷライブ.jp" tvg-logo="https://corporate.wowow.co.jp/recruit/assets/img/logo-wowow_live.png", WOWOW Live  
+#EXTINF:-1 group-title="Nhật Bản" tvg-id="ＷＯＷＯＷライブ.jp" tvg-logo="https://corporate.wowow.co.jp/recruit/assets/img/logo-wowow_live.png", WOWOW Live  
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20
-#EXTINF:-1 group-title="🇯🇵 Nhật Bản" tvg-id="ＷＯＷＯＷシネマ.jp" tvg-logo="https://corporate.wowow.co.jp/recruit/assets/img/logo-wowow_cinema.png", WOWOW Cinema
+#EXTINF:-1 group-title="Nhật Bản" tvg-id="ＷＯＷＯＷシネマ.jp" tvg-logo="https://corporate.wowow.co.jp/recruit/assets/img/logo-wowow_cinema.png", WOWOW Cinema
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07
-#EXTINF:-1 group-title="🇯🇵 Nhật Bản" tvg-id="スターチャンネル1.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_channel_jp_1.png", Star Channel 1  
+#EXTINF:-1 group-title="Nhật Bản" tvg-id="スターチャンネル1.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_channel_jp_1.png", Star Channel 1  
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs08
-#EXTINF:-1 group-title="🇯🇵 Nhật Bản" tvg-id="アニマックスＨＤ.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/1200px-Animax.svg.png", BS Animax  
+#EXTINF:-1 group-title="Nhật Bản" tvg-id="アニマックスＨＤ.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/1200px-Animax.svg.png", BS Animax  
 https://vnpt.nekocdn.xyz/68ea67df-d4e1-44cb-bdb9-179dd01b7db4.m3u8
-#EXTINF:-1 group-title="🇯🇵 Nhật Bản" tvg-id="J SPORTS 1 HD.jp" tvg-logo="https://www.jsports.co.jp/img/icon/ch1.png", J SPORTS 1
+#EXTINF:-1 group-title="Nhật Bản" tvg-id="J SPORTS 1 HD.jp" tvg-logo="https://www.jsports.co.jp/img/icon/ch1.png", J SPORTS 1
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18
-#EXTINF:-1 group-title="🇯🇵 Nhật Bản" tvg-id="J SPORTS 2 HD.jp" tvg-logo="https://www.jsports.co.jp/img/icon/ch2.png", J SPORTS 2  
+#EXTINF:-1 group-title="Nhật Bản" tvg-id="J SPORTS 2 HD.jp" tvg-logo="https://www.jsports.co.jp/img/icon/ch2.png", J SPORTS 2  
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19
-#EXTINF:-1 group-title="🇯🇵 Nhật Bản" tvg-id="J SPORTS 3 HD.jp" tvg-logo="https://www.jsports.co.jp/img/icon/ch3.png", J SPORTS 3 
+#EXTINF:-1 group-title="Nhật Bản" tvg-id="J SPORTS 3 HD.jp" tvg-logo="https://www.jsports.co.jp/img/icon/ch3.png", J SPORTS 3 
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21
-#EXTINF:-1 group-title="🇯🇵 Nhật Bản" tvg-id="J SPORTS 4 HD.jp" tvg-logo="https://www.jsports.co.jp/img/icon/ch4.png", J SPORTS 4
+#EXTINF:-1 group-title="Nhật Bản" tvg-id="J SPORTS 4 HD.jp" tvg-logo="https://www.jsports.co.jp/img/icon/ch4.png", J SPORTS 4
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22
-#EXTINF:-1 group-title="🇯🇵 Nhật Bản" tvg-id="グリーンチャンネルHD.jp" tvg-logo="https://www.lyngsat.com/logo/tv/gg/green_channel_jp.png", Green Channel
+#EXTINF:-1 group-title="Nhật Bản" tvg-id="グリーンチャンネルHD.jp" tvg-logo="https://www.lyngsat.com/logo/tv/gg/green_channel_jp.png", Green Channel
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs14
-#EXTINF:-1 group-title="🇯🇵 Nhật Bản" tvg-id="日本映画専門チャンネル　HD.jp" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/3/nihon-eiga_logo.jpg", BS Japan Movie Channel  
+#EXTINF:-1 group-title="Nhật Bản" tvg-id="日本映画専門チャンネル　HD.jp" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/3/nihon-eiga_logo.jpg", BS Japan Movie Channel  
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs23
-#EXTINF:-1 group-title="🇯🇵 Nhật Bản" tvg-id="ディズニー・チャンネルHD.jp"" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/250px-2019_Disney_Channel_logo.svg.png", Disney Channel
+#EXTINF:-1 group-title="Nhật Bản" tvg-id="ディズニー・チャンネルHD.jp"" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/250px-2019_Disney_Channel_logo.svg.png", Disney Channel
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24
-#EXTINF:-1 group-title="🇯🇵 Nhật Bản" tvg-id="釣りビジョンHD.jp" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tsuri_vision.png", Fishing Vision
+#EXTINF:-1 group-title="Nhật Bản" tvg-id="釣りビジョンHD.jp" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tsuri_vision.png", Fishing Vision
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs25
-#EXTINF:-1 group-title="🇯🇵 Nhật Bản" tvg-id="ＢＳ松竹東急.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e2/BS_Shochiku_Tokyu_logo.jpg", BS Shochiku Tokyu
+#EXTINF:-1 group-title="Nhật Bản" tvg-id="ＢＳ松竹東急.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e2/BS_Shochiku_Tokyu_logo.jpg", BS Shochiku Tokyu
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs31
-#EXTINF:-1 group-title="🇯🇵 Nhật Bản" tvg-id="時代劇専門チャンネル HD.jp" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jidaigeki.png", Jidaigeki Senmon
+#EXTINF:-1 group-title="Nhật Bản" tvg-id="時代劇専門チャンネル HD.jp" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jidaigeki.png", Jidaigeki Senmon
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs04
-#EXTINF:-1 group-title="🇯🇵 Nhật Bản" tvg-id="東映チャンネルHD.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/toei_channel.png", Toei Channel
+#EXTINF:-1 group-title="Nhật Bản" tvg-id="東映チャンネルHD.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/toei_channel.png", Toei Channel
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs27
-#EXTINF:-1 group-title="🇯🇵 Nhật Bản" tvg-id="衛星劇場HD.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eisei_gekijo.png", Eisei Gekijo 
+#EXTINF:-1 group-title="Nhật Bản" tvg-id="衛星劇場HD.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eisei_gekijo.png", Eisei Gekijo 
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs22
-#EXTINF:-1 group-title="🇯🇵 Nhật Bản" tvg-id="ファミリー劇場HD.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/family_gekijyo_jp.png", Family Gekijyo
+#EXTINF:-1 group-title="Nhật Bản" tvg-id="ファミリー劇場HD.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/family_gekijyo_jp.png", Family Gekijyo
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs20
-#EXTINF:-1 group-title="🇯🇵 Nhật Bản" tvg-id="ムービープラス.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/movie_plus_jp.png", Movie Plus
+#EXTINF:-1 group-title="Nhật Bản" tvg-id="ムービープラス.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/movie_plus_jp.png", Movie Plus
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs14
-#EXTINF:-1 group-title="🇯🇵 Nhật Bản" tvg-id="ホームドラマチャンネルＨＤ 韓流・時代劇・国内ドラマ.jp" tvg-logo="https://www.lyngsat.com/logo/tv/hh/home-drama-channelpng-jp.png", Home Drama Channel
+#EXTINF:-1 group-title="Nhật Bản" tvg-id="ホームドラマチャンネルＨＤ 韓流・時代劇・国内ドラマ.jp" tvg-logo="https://www.lyngsat.com/logo/tv/hh/home-drama-channelpng-jp.png", Home Drama Channel
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs05
-#EXTINF:-1 group-title="🇯🇵 Nhật Bản" tvg-id="旅チャンネル　ＨＤ.jp" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tabi_channel.png", Tabi Channel
+#EXTINF:-1 group-title="Nhật Bản" tvg-id="旅チャンネル　ＨＤ.jp" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tabi_channel.png", Tabi Channel
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs12
-#EXTINF:-1 group-title="🇯🇵 Nhật Bản" tvg-id="フジテレビＮＥＸＴ　ライブ・プレミアム.jp" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fuji_tv_next.png", Fuji TV Next
+#EXTINF:-1 group-title="Nhật Bản" tvg-id="フジテレビＮＥＸＴ　ライブ・プレミアム.jp" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fuji_tv_next.png", Fuji TV Next
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs26
-#EXTINF:-1 group-title="🇯🇵 Nhật Bản" tvg-id="スカイA.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-a-jp.png", Sky A  
+#EXTINF:-1 group-title="Nhật Bản" tvg-id="スカイA.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-a-jp.png", Sky A  
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs01
-#EXTINF:-1 group-title="🇯🇵 Nhật Bản" tvg-id="GAORA SPORTS HD.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/gaora-sportspng-jp.png", GAORA SPORTS  
+#EXTINF:-1 group-title="Nhật Bản" tvg-id="GAORA SPORTS HD.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/gaora-sportspng-jp.png", GAORA SPORTS  
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17
-#EXTINF:-1 group-title="🇯🇵 Nhật Bản" tvg-id="ゴルフネットワーク" tvg-logo="https://www.lyngsat.com/logo/tv/gg/golf-network-jp.png", Golf Network
+#EXTINF:-1 group-title="Nhật Bản" tvg-id="ゴルフネットワーク" tvg-logo="https://www.lyngsat.com/logo/tv/gg/golf-network-jp.png", Golf Network
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs03
-#EXTINF:-1 group-title="🇯🇵 Nhật Bản" tvg-id="日テレジータス HD.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/ntv-g-plus-jp.png", Nittele G+
+#EXTINF:-1 group-title="Nhật Bản" tvg-id="日テレジータス HD.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/ntv-g-plus-jp.png", Nittele G+
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs02
-#EXTINF:-1 group-title="🇯🇵 Nhật Bản" tvg-id="MONDOTV HD.jp" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mondo_tv_jp.png", Mondo TV
+#EXTINF:-1 group-title="Nhật Bản" tvg-id="MONDOTV HD.jp" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mondo_tv_jp.png", Mondo TV
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs21
-#EXTINF:-1 group-title="🇯🇵 Nhật Bản" tvg-id="チャンネル銀河　歴史ドラマ・サスペンス・日本のうた.jp" tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel_ginga.png", Channel Ginga
+#EXTINF:-1 group-title="Nhật Bản" tvg-id="チャンネル銀河　歴史ドラマ・サスペンス・日本のうた.jp" tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel_ginga.png", Channel Ginga
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs29
-#EXTINF:-1 group-title="🇯🇵 Nhật Bản" tvg-id="音楽・ライブ！　スペースシャワーTV HD.jpr" tvg-logo="https://www.lyngsat.com/logo/tv/ss/space_shower_tv.png", Space Shower TV
+#EXTINF:-1 group-title="Nhật Bản" tvg-id="音楽・ライブ！　スペースシャワーTV HD.jpr" tvg-logo="https://www.lyngsat.com/logo/tv/ss/space_shower_tv.png", Space Shower TV
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs26
-#EXTINF:-1 group-title="🇯🇵 Nhật Bản" tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/mm/music_japan_tv.png", Music Japan TV
+#EXTINF:-1 group-title="Nhật Bản" tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/mm/music_japan_tv.png", Music Japan TV
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06
-#EXTINF:-1 group-title="🇯🇵 Nhật Bản" tvg-id="歌謡ポップスチャンネル.jp" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kayo-pops-jp.png", Kayo Pops
+#EXTINF:-1 group-title="Nhật Bản" tvg-id="歌謡ポップスチャンネル.jp" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kayo-pops-jp.png", Kayo Pops
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs13
-#EXTINF:-1 group-title="🇯🇵 Nhật Bản" tvg-id="MTV HD.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/240px-MTV_2021_%28brand_version%29.svg.png", MTV (2)
+#EXTINF:-1 group-title="Nhật Bản" tvg-id="MTV HD.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/240px-MTV_2021_%28brand_version%29.svg.png", MTV (2)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18
-#EXTINF:-1 group-title="🇯🇵 Nhật Bản" tvg-id="女性チャンネル♪LaLa TV.jp" tvg-logo="https://www.lyngsat.com/logo/tv/ll/lala_tv.png", LaLa TV
+#EXTINF:-1 group-title="Nhật Bản" tvg-id="女性チャンネル♪LaLa TV.jp" tvg-logo="https://www.lyngsat.com/logo/tv/ll/lala_tv.png", LaLa TV
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs19
-#EXTINF:-1 group-title="🇯🇵 Nhật Bản" tvg-id="タカラヅカ・スカイ・ステージ.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-154-400x400.png", Takarazuka Sky Stage
+#EXTINF:-1 group-title="Nhật Bản" tvg-id="タカラヅカ・スカイ・ステージ.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-154-400x400.png", Takarazuka Sky Stage
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs28
-#EXTINF:-1 group-title="🇯🇵 Nhật Bản" tvg-id="キッズステーション HD.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kidsstation.png", Kids Staton TV
+#EXTINF:-1 group-title="Nhật Bản" tvg-id="キッズステーション HD.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kidsstation.png", Kids Staton TV
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07
-#EXTINF:-1 group-title="🇯🇵 Nhật Bản" tvg-id="カートゥーン ネットワークHD 海外アニメ国内アニメ.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cartoon-network-us.svg", Cartoon Network 
+#EXTINF:-1 group-title="Nhật Bản" tvg-id="カートゥーン ネットワークHD 海外アニメ国内アニメ.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cartoon-network-us.svg", Cartoon Network 
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25
-#EXTINF:-1 group-title="🇯🇵 Nhật Bản" tvg-id="ディズニージュニア.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/disney_junior_us.png", Disney Junior
+#EXTINF:-1 group-title="Nhật Bản" tvg-id="ディズニージュニア.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/disney_junior_us.png", Disney Junior
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23
-#EXTINF:-1 group-title="🇯🇵 Nhật Bản" tvg-id="ディスカバリーチャンネル.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery-channel-east-us.png", Discovery Channel  
+#EXTINF:-1 group-title="Nhật Bản" tvg-id="ディスカバリーチャンネル.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery-channel-east-us.png", Discovery Channel  
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs08
-#EXTINF:-1 group-title="🇯🇵 Nhật Bản" tvg-id="toeich" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/toei_channel.png", 東映チャンネル / Toei Channel
+#EXTINF:-1 group-title="Nhật Bản" tvg-id="toeich" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/toei_channel.png", 東映チャンネル / Toei Channel
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs27
-#EXTINF:-1 group-title="🇯🇵 Nhật Bản" tvg-id="eigeki" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eisei_gekijo.png", 衛星劇場 / Eisei Gekijo 
+#EXTINF:-1 group-title="Nhật Bản" tvg-id="eigeki" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eisei_gekijo.png", 衛星劇場 / Eisei Gekijo 
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs22
-#EXTINF:-1 group-title="🇯🇵 Nhật Bản" tvg-id="movieplus" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/movie_plus_jp.png", ムービープラス / Movie Plus
+#EXTINF:-1 group-title="Nhật Bản" tvg-id="movieplus" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/movie_plus_jp.png", ムービープラス / Movie Plus
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs14
-#EXTINF:-1 group-title="🇯🇵 Nhật Bản" tvg-id="skya" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-a-jp.png", スカイ・A / Sky A  
+#EXTINF:-1 group-title="Nhật Bản" tvg-id="skya" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-a-jp.png", スカイ・A / Sky A  
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs01
-#EXTINF:-1 group-title="🇯🇵 Nhật Bản" tvg-id="gaora" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/gaora-sportspng-jp.png", GAORA SPORTS  
+#EXTINF:-1 group-title="Nhật Bản" tvg-id="gaora" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/gaora-sportspng-jp.png", GAORA SPORTS  
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17
-#EXTINF:-1 group-title="🇯🇵 Nhật Bản" tvg-id="ntvgplus" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/ntv-g-plus-jp.png", 日テレジータス / Nittele G+
+#EXTINF:-1 group-title="Nhật Bản" tvg-id="ntvgplus" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/ntv-g-plus-jp.png", 日テレジータス / Nittele G+
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs02
-#EXTINF:-1 group-title="🇯🇵 Nhật Bản" tvg-id="familygeki" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/family_gekijyo_jp.png", ファミリー劇場 / Family Gekijyo
+#EXTINF:-1 group-title="Nhật Bản" tvg-id="familygeki" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/family_gekijyo_jp.png", ファミリー劇場 / Family Gekijyo
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs04
-#EXTINF:-1 group-title="🇯🇵 Nhật Bản" tvg-id="mtv" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mtv-us.svg", MTV  
+#EXTINF:-1 group-title="Nhật Bản" tvg-id="mtv" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mtv-us.svg", MTV  
 http://jp.vthanhnetwork.com/MTV/index.m3u8
-#EXTINF:-1 group-title="🇯🇵 Nhật Bản" tvg-id="kidsstation" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kidsstation.png", キッズステーション / Kids Staton TV
+#EXTINF:-1 group-title="Nhật Bản" tvg-id="kidsstation" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kidsstation.png", キッズステーション / Kids Staton TV
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07
-#EXTINF:-1 group-title="🇯🇵 Nhật Bản" tvg-id="cartoonnw" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cartoon-network-us.svg", Cartoon Network 
+#EXTINF:-1 group-title="Nhật Bản" tvg-id="cartoonnw" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cartoon-network-us.svg", Cartoon Network 
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25
-#EXTINF:-1 group-title="🇯🇵 Nhật Bản" tvg-id="disneyjr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/disney_junior_us.png", ディズニージュニア / Disney Junior
+#EXTINF:-1 group-title="Nhật Bản" tvg-id="disneyjr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/disney_junior_us.png", ディズニージュニア / Disney Junior
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23
-#EXTINF:-1 group-title="🇯🇵 Nhật Bản" tvg-id="discovery" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery-channel-east-us.png", Discovery Channel  
+#EXTINF:-1 group-title="Nhật Bản" tvg-id="discovery" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery-channel-east-us.png", Discovery Channel  
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs08
 
-#EXTINF:-1 tvg-id="KoreanCentralTelevision.kp" tvg-logo="https://i.imgur.com/p02AEOF.png" group-title="🇰🇵 Triều Tiên" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36",KCTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
-https://as.luminous.dev/live/kctv247
 
-#EXTINF:-1 tvg-id="KBS1TV.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png" group-title="🇰🇷 Hàn Quốc",KBS 1TV 
+
+#EXTINF:-1 tvg-id="KBS1TV.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png" group-title="Hàn Quốc",KBS 1TV 
 http://mytv.dothome.co.kr/ch/public/1.php
-#EXTINF:-1 tvg-id="KBS2TV.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/512px-KBS_2_logo.svg.png" group-title="🇰🇷 Hàn Quốc",KBS 2TV 
+#EXTINF:-1 tvg-id="KBS2TV.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/512px-KBS_2_logo.svg.png" group-title="Hàn Quốc",KBS 2TV 
 http://mytv.dothome.co.kr/ch/public/3.php
-#EXTINF:-1 tvg-id="KBSDrama.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/KBS_DRAMA.svg/512px-KBS_DRAMA.svg.png" group-title="🇰🇷 Hàn Quốc",KBS Drama 
+#EXTINF:-1 tvg-id="KBSDrama.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/KBS_DRAMA.svg/512px-KBS_DRAMA.svg.png" group-title="Hàn Quốc",KBS Drama 
 http://mytv.dothome.co.kr/ch/catv/2.php
-#EXTINF:-1 tvg-id="KBSJoy.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KBS_JOY.svg/512px-KBS_JOY.svg.png" group-title="🇰🇷 Hàn Quốc",KBS Joy 
+#EXTINF:-1 tvg-id="KBSJoy.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KBS_JOY.svg/512px-KBS_JOY.svg.png" group-title="Hàn Quốc",KBS Joy 
 http://mytv.dothome.co.kr/ch/catv/3.php
-#EXTINF:-1 tvg-id="KBSLife.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/KBS_Life.svg/512px-KBS_Life.svg.png" group-title="🇰🇷 Hàn Quốc",KBS Life 
+#EXTINF:-1 tvg-id="KBSLife.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/KBS_Life.svg/512px-KBS_Life.svg.png" group-title="Hàn Quốc",KBS Life 
 http://132.145.84.42:9981/stream/channelid/224331961?profile=pass
-#EXTINF:-1 tvg-id="KBSLiveCamDokDo.kr" tvg-logo="https://i.imgur.com/7mZnPO5.png" group-title="🇰🇷 Hàn Quốc",KBS LiveCam DokDo (540p)
+#EXTINF:-1 tvg-id="KBSLiveCamDokDo.kr" tvg-logo="https://i.imgur.com/7mZnPO5.png" group-title="Hàn Quốc",KBS LiveCam DokDo (540p)
 http://kbs-dokdo.gscdn.com/dokdo_300/dokdo_300.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="KBSStory.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/KBS_Story.svg/512px-KBS_Story.svg.png" group-title="🇰🇷 Hàn Quốc",KBS Story
+#EXTINF:-1 tvg-id="KBSStory.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/KBS_Story.svg/512px-KBS_Story.svg.png" group-title="Hàn Quốc",KBS Story
 http://mytv.dothome.co.kr/ch/catv/4.php
-#EXTINF:-1 tvg-id="HLAQDTV.kr" tvg-logo="https://i.imgur.com/FGsKCH3.png" group-title="🇰🇷 Hàn Quốc",MBC 
+#EXTINF:-1 tvg-id="HLAQDTV.kr" tvg-logo="https://i.imgur.com/FGsKCH3.png" group-title="Hàn Quốc",MBC 
 http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
-#EXTINF:-1 tvg-id="HLDFDTV.kr" tvg-logo="https://github.com/HaNoiIPTV/HaNoiIPTV.m3u/blob/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/H%C3%A0%20N%E1%BB%99i%20IPTV%202%20-%20SBS%20HD.png?raw=true" group-title="🇰🇷 Hàn Quốc",SBS
+#EXTINF:-1 tvg-id="HLDFDTV.kr" tvg-logo="https://github.com/HaNoiIPTV/HaNoiIPTV.m3u/blob/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/H%C3%A0%20N%E1%BB%99i%20IPTV%202%20-%20SBS%20HD.png?raw=true" group-title="Hàn Quốc",SBS
 http://1.245.74.5:1935/live/tv/.m3u8
-#EXTINF:-1 tvg-id="EBS1TV.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/EBS_1TV_Logo.svg/512px-EBS_1TV_Logo.svg.png" group-title="🇰🇷 Hàn Quốc",EBS 1
+#EXTINF:-1 tvg-id="EBS1TV.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/EBS_1TV_Logo.svg/512px-EBS_1TV_Logo.svg.png" group-title="Hàn Quốc",EBS 1
 https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-id="EBS2TV.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/EBS_2TV_Logo.svg/512px-EBS_2TV_Logo.svg.png" group-title="🇰🇷 Hàn Quốc",EBS 2 (400p)
+#EXTINF:-1 tvg-id="EBS2TV.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/EBS_2TV_Logo.svg/512px-EBS_2TV_Logo.svg.png" group-title="Hàn Quốc",EBS 2 (400p)
 https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-id="EBSEnglish.kr" tvg-logo="https://i.imgur.com/5wLJzb0.png" group-title="🇰🇷 Hàn Quốc",EBS E 
+#EXTINF:-1 tvg-id="EBSEnglish.kr" tvg-logo="https://i.imgur.com/5wLJzb0.png" group-title="Hàn Quốc",EBS E 
 https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-id="EBSKids.kr" tvg-logo="https://i.imgur.com/62oo8Bx.png" group-title="🇰🇷 Hàn Quốc",EBS kids 
+#EXTINF:-1 tvg-id="EBSKids.kr" tvg-logo="https://i.imgur.com/62oo8Bx.png" group-title="Hàn Quốc",EBS kids 
 https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-id="EBSPlus1.kr" tvg-logo="https://i.imgur.com/aCeuhon.png" group-title="🇰🇷 Hàn Quốc",EBS+ 1 
+#EXTINF:-1 tvg-id="EBSPlus1.kr" tvg-logo="https://i.imgur.com/aCeuhon.png" group-title="Hàn Quốc",EBS+ 1 
 https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-id="EBSPlus2.kr" tvg-logo="https://i.imgur.com/pllIMGi.png" group-title="🇰🇷 Hàn Quốc",EBS+ 2 
+#EXTINF:-1 tvg-id="EBSPlus2.kr" tvg-logo="https://i.imgur.com/pllIMGi.png" group-title="Hàn Quốc",EBS+ 2 
 https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-id="YonhapNewsTV.kr" tvg-logo="https://i.imgur.com/3aLkU2I.png" group-title="🇰🇷 Hàn Quốc",Yonhap News TV 
+#EXTINF:-1 tvg-id="YonhapNewsTV.kr" tvg-logo="https://i.imgur.com/3aLkU2I.png" group-title="Hàn Quốc",Yonhap News TV 
 https://ythls.kekikakademi.org/youtube/channel/UCTHCOPwqNfZ0uiKOvFyhGwg.m3u8
-#EXTINF:-1 tvg-id="YTN2.kr" tvg-logo="https://i.imgur.com/g6Nhwmb.png" group-title="🇰🇷 Hàn Quốc",YTN2 
+#EXTINF:-1 tvg-id="YTN2.kr" tvg-logo="https://i.imgur.com/g6Nhwmb.png" group-title="Hàn Quốc",YTN2 
 https://ythls.kekikakademi.org/youtube/channel/UCDww6ExpwQS0TzmREIOo40Q.m3u8
-#EXTINF:-1 tvg-id="YTN.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/YTN_logo_2014.svg/512px-YTN_logo_2014.svg.png" group-title="🇰🇷 Hàn Quốc",YTN
+#EXTINF:-1 tvg-id="YTN.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/YTN_logo_2014.svg/512px-YTN_logo_2014.svg.png" group-title="Hàn Quốc",YTN
 https://ythls.kekikakademi.org/youtube/channel/UChlgI3UHCOnwUGzWzbJ3H5w.m3u8
-#EXTINF:-1 tvg-id="YTNDMB.kr" tvg-logo="https://i.imgur.com/50VQSBk.png" group-title="🇰🇷 Hàn Quốc",YTN DMB 
-#EXTINF:-1 tvg-id="YTNScience.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/YTN_%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4_%EB%A1%9C%EA%B3%A0_%EB%89%B4.png/512px-YTN_%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4_%EB%A1%9C%EA%B3%A0_%EB%89%B4.png" group-title="🇰🇷 Hàn Quốc",YTN Science 
+#EXTINF:-1 tvg-id="YTNDMB.kr" tvg-logo="https://i.imgur.com/50VQSBk.png" group-title="Hàn Quốc",YTN DMB 
+#EXTINF:-1 tvg-id="YTNScience.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/YTN_%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4_%EB%A1%9C%EA%B3%A0_%EB%89%B4.png/512px-YTN_%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4_%EB%A1%9C%EA%B3%A0_%EB%89%B4.png" group-title="Hàn Quốc",YTN Science 
 https://ythls.kekikakademi.org/youtube/channel/UCZdBJIbJz0P9xyFipgOj1fA.m3u8
 
 
@@ -1860,91 +1529,91 @@ https://live-stream.dvb.no/hls/stream_src/index.m3u8
 
 EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
-#EXTINF:-1 group-title="🇲🇾🇸🇬 Malaysia và Singapore"  tvg-id="RTMK01" tvg-chno="RTMK01" tvg-logo="http://rtm.samsam123.tk/Channel%20Logo/TV1.jpg",TV1
+#EXTINF:-1 group-title="Malaysia và Singapore"  tvg-id="RTMK01" tvg-chno="RTMK01" tvg-logo="http://rtm.samsam123.tk/Channel%20Logo/TV1.jpg",TV1
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
-#EXTINF:-1 group-title="🇲🇾🇸🇬 Malaysia và Singapore"  tvg-id="RTMK02" tvg-chno="RTMK02" tvg-logo="http://rtm.samsam123.tk/Channel%20Logo/TV2.jpg",TV2
+#EXTINF:-1 group-title="Malaysia và Singapore"  tvg-id="RTMK02" tvg-chno="RTMK02" tvg-logo="http://rtm.samsam123.tk/Channel%20Logo/TV2.jpg",TV2
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
-#EXTINF:-1 tvg-id="TV3" group-title="🇲🇾🇸🇬 Malaysia và Singapore" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",TV3
+#EXTINF:-1 tvg-id="TV3" group-title="Malaysia và Singapore" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",TV3
 https://z02.ubtvfans.com/live/rx3/437/5419036fb97b8a043fa20875ff4f7293/index.m3u8
-#EXTINF:-1 tvg-id="DidikTVKPM" group-title="🇲🇾🇸🇬 Malaysia và Singapore" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/93_144.png",NTV7
+#EXTINF:-1 tvg-id="DidikTVKPM" group-title="Malaysia và Singapore" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/93_144.png",NTV7
 https://z88.ubtvfans.com/live/rx3/439/6b72e5cc931e378d31f285f8e8ee2231/index.m3u8
-#EXTINF:-1 tvg-id="8TV" group-title="🇲🇾🇸🇬 Malaysia và Singapore" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png",8TV
+#EXTINF:-1 tvg-id="8TV" group-title="Malaysia và Singapore" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png",8TV
 https://z02.ubtvfans.com/live/rx3/442/87b78cbcd3a3385f2866c3838342f4ca/index.m3u8
-#EXTINF:-1 tvg-id="TV9" group-title="🇲🇾🇸🇬 Malaysia và Singapore" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/48_144.png",TV9
+#EXTINF:-1 tvg-id="TV9" group-title="Malaysia và Singapore" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/48_144.png",TV9
 https://z02.ubtvfans.com/live/rx3/438/490f6668a0ffe54cf9ed88524e832efd/index.m3u8
-#EXTINF:-1 group-title="🇲🇾🇸🇬 Malaysia và Singapore"  tvg-id="RTMK03" tvg-chno="RTMK03" tvg-logo="http://rtm.samsam123.tk/Channel%20Logo/TV%20Okey.jpg",TV Okey
+#EXTINF:-1 group-title="Malaysia và Singapore"  tvg-id="RTMK03" tvg-chno="RTMK03" tvg-logo="http://rtm.samsam123.tk/Channel%20Logo/TV%20Okey.jpg",TV Okey
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
-#EXTINF:-1 group-title="🇲🇾🇸🇬 Malaysia và Singapore"  tvg-id="RTMK04" tvg-chno="RTMK04" tvg-logo="http://rtm.samsam123.tk/Channel%20Logo/Berita%20RTM.jpg",Berita RTM
+#EXTINF:-1 group-title="Malaysia và Singapore"  tvg-id="RTMK04" tvg-chno="RTMK04" tvg-logo="http://rtm.samsam123.tk/Channel%20Logo/Berita%20RTM.jpg",Berita RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
-#EXTINF:-1 group-title="🇲🇾🇸🇬 Malaysia và Singapore"  tvg-id="RTMK05" tvg-chno="RTMK05" tvg-logo="http://rtm.samsam123.tk/Channel%20Logo/Sukan%20RTM.jpg",Sukan RTM
+#EXTINF:-1 group-title="Malaysia và Singapore"  tvg-id="RTMK05" tvg-chno="RTMK05" tvg-logo="http://rtm.samsam123.tk/Channel%20Logo/Sukan%20RTM.jpg",Sukan RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
-#EXTINF:-1 group-title="🇲🇾🇸🇬 Malaysia và Singapore"  tvg-id="RTMK06" tvg-chno="RTMK06" tvg-logo="http://rtm.samsam123.tk/Channel%20Logo/TV6.jpg",TV6
+#EXTINF:-1 group-title="Malaysia và Singapore"  tvg-id="RTMK06" tvg-chno="RTMK06" tvg-logo="http://rtm.samsam123.tk/Channel%20Logo/TV6.jpg",TV6
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
-#EXTINF:-1 group-title="🇲🇾🇸🇬 Malaysia và Singapore"  tvg-id="RTMK07" tvg-chno="RTMK07" tvg-logo="http://rtm.samsam123.tk/Channel%20Logo/Dewan%20Rakyat.jpg",Dewan Rakyat
+#EXTINF:-1 group-title="Malaysia và Singapore"  tvg-id="RTMK07" tvg-chno="RTMK07" tvg-logo="http://rtm.samsam123.tk/Channel%20Logo/Dewan%20Rakyat.jpg",Dewan Rakyat
 https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/playlist.m3u8?id=7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
-#EXTINF:-1 group-title="🇲🇾🇸🇬 Malaysia và Singapore"  tvg-id="RTMK08" tvg-chno="RTMK08" tvg-logo="http://rtm.samsam123.tk/Channel%20Logo/Dewan%20Negara.jpg",Dewan Negara
+#EXTINF:-1 group-title="Malaysia và Singapore"  tvg-id="RTMK08" tvg-chno="RTMK08" tvg-logo="http://rtm.samsam123.tk/Channel%20Logo/Dewan%20Negara.jpg",Dewan Negara
 https://d25tgymtnqzu8s.cloudfront.net/smil:negara/playlist.m3u8?id=8
-#EXTINF:-1 group-title="🇲🇾🇸🇬 Malaysia và Singapore"  tvg-id="RTMK08" tvg-chno="RTMK08" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/182_144.png",Astro AEC
+#EXTINF:-1 group-title="Malaysia và Singapore"  tvg-id="RTMK08" tvg-chno="RTMK08" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/182_144.png",Astro AEC
 https://z02.ubtvfans.com/live/rx3/433/2d19cd6ecf75dc80b839369e166a9d8f/index.m3u8
-#EXTINF:-1 group-title="🇲🇾🇸🇬 Malaysia và Singapore"  tvg-id="RTMK08" tvg-chno="RTMK08" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/158_144.png,Astro QJ
+#EXTINF:-1 group-title="Malaysia và Singapore"  tvg-id="RTMK08" tvg-chno="RTMK08" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/158_144.png,Astro QJ
 https://z02.ubtvfans.com/live/rx3/427/0f7330dfa5e5c9489e056561b2a4122c/index.m3u8
-#EXTINF:-1 group-title="🇲🇾🇸🇬 Malaysia và Singapore"  tvg-id="RTMK08" tvg-chno="RTMK08" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/162_144.png",Astro Hua Hee Dai
+#EXTINF:-1 group-title="Malaysia và Singapore"  tvg-id="RTMK08" tvg-chno="RTMK08" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/162_144.png",Astro Hua Hee Dai
 https://z02.ubtvfans.com/live/rx3/432/fdaa767379839410dd2b934cddf323b1/index.m3u8
-#EXTINF:-1 group-title="🇲🇾🇸🇬 Malaysia và Singapore"  tvg-id="RTMK08" tvg-chno="RTMK08" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cb/Astro_AOD.jpeg",Astro AOD
+#EXTINF:-1 group-title="Malaysia và Singapore"  tvg-id="RTMK08" tvg-chno="RTMK08" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cb/Astro_AOD.jpeg",Astro AOD
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=607b7d22565c4bc3b95ff6c33ce65425&key=28cc5367df666c44be4382e64af64d57
-#EXTINF:-1 group-title="🇲🇾🇸🇬 Malaysia và Singapore" tvg-id="997" tvg-chno="997" tvg-logo="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%27956277%27&EntityType=%27Item%27&EntityId=%2797098%27&Width=150&Height=150&ImageUrl=%27956277.png%27&device=%27web_browser%27&subscriptions=%27Anonymous%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Channel 5 
+#EXTINF:-1 group-title="Malaysia và Singapore" tvg-id="997" tvg-chno="997" tvg-logo="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%27956277%27&EntityType=%27Item%27&EntityId=%2797098%27&Width=150&Height=150&ImageUrl=%27956277.png%27&device=%27web_browser%27&subscriptions=%27Anonymous%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Channel 5 
 https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2448fc561b0c4220a81f1008971d3088&key=f48eb6753f3d1774da682970c93cf260
-#EXTINF:-1 group-title="🇲🇾🇸🇬 Malaysia và Singapore" tvg-id="998" tvg-chno="998" tvg-logo="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%27956273%27&EntityType=%27Item%27&EntityId=%2797104%27&Width=150&Height=150&ImageUrl=%27956273.png%27&device=%27web_browser%27&subscriptions=%27Anonymous%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Channel 8
+#EXTINF:-1 group-title="Malaysia và Singapore" tvg-id="998" tvg-chno="998" tvg-logo="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%27956273%27&EntityType=%27Item%27&EntityId=%2797104%27&Width=150&Height=150&ImageUrl=%27956273.png%27&device=%27web_browser%27&subscriptions=%27Anonymous%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Channel 8
 https://tglmp02.akamaized.net/out/v1/4f6561ad194b49ae93f4e1b075afdf41/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0328a153c2994b279ab03ab25102fc59&key=2cc69eaaa858fed24c5623654daf8d3d
-#EXTINF:-1 group-title="🇲🇾🇸🇬 Malaysia và Singapore" tvg-id="999" tvg-chno="999" tvg-logo="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%272261554%27&EntityType=%27Item%27&EntityId=%2797129%27&Width=150&Height=150&ImageUrl=%272261554.png%27&device=%27web_browser%27&subscriptions=%27Anonymous%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Channel U
+#EXTINF:-1 group-title="Malaysia và Singapore" tvg-id="999" tvg-chno="999" tvg-logo="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%272261554%27&EntityType=%27Item%27&EntityId=%2797129%27&Width=150&Height=150&ImageUrl=%272261554.png%27&device=%27web_browser%27&subscriptions=%27Anonymous%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Channel U
 https://tglmp03.akamaized.net/out/v1/1057d89ee3d94148b430b5866e3a540a/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=7a9ea6df52044841b0c562766e602610&key=b9380188b4896b25e8d419dfce938c6e
-#EXTINF:-1 group-title="🇲🇾🇸🇬 Malaysia và Singapore" tvg-id="1000" tvg-chno="1000" tvg-logo="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%27956267%27&EntityType=%27Item%27&EntityId=%2797084%27&Width=150&Height=150&ImageUrl=%27956267.png%27&device=%27web_browser%27&subscriptions=%27Registered%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Channel Suria
+#EXTINF:-1 group-title="Malaysia và Singapore" tvg-id="1000" tvg-chno="1000" tvg-logo="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%27956267%27&EntityType=%27Item%27&EntityId=%2797084%27&Width=150&Height=150&ImageUrl=%27956267.png%27&device=%27web_browser%27&subscriptions=%27Registered%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Channel Suria
 https://tglmp04.akamaized.net/out/v1/b200e885125f4787bd2329952ff28fa1/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=9970038ef6c548e39768f3a1ff6f5081&key=3e19d54b7bcd8bb336776fe136d48f57
-#EXTINF:-1 group-title="🇲🇾🇸🇬 Malaysia và Singapore" tvg-id="1001" tvg-chno="1001" tvg-logo="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%27956271%27&EntityType=%27Item%27&EntityId=%2797096%27&Width=150&Height=150&ImageUrl=%27956271.png%27&device=%27web_browser%27&subscriptions=%27Registered%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Channel Vasantham
+#EXTINF:-1 group-title="Malaysia và Singapore" tvg-id="1001" tvg-chno="1001" tvg-logo="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%27956271%27&EntityType=%27Item%27&EntityId=%2797096%27&Width=150&Height=150&ImageUrl=%27956271.png%27&device=%27web_browser%27&subscriptions=%27Registered%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Channel Vasantham
 https://tglmp03.akamaized.net/out/v1/14eb6e921cae41298efaa4d9db0f2875/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=7cb90b341f444e4ca3fb60de2ed3d6e5&key=5640220b78729773fbeaabc19a502b50
-#EXTINF:-1 group-title="🇲🇾🇸🇬 Malaysia và Singapore" tvg-id="1002" tvg-chno="1002" tvg-logo="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%27956283%27&EntityType=%27Item%27&EntityId=%2797072%27&Width=150&Height=150&ImageUrl=%27956283.png%27&device=%27web_browser%27&subscriptions=%27Registered%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",CNA
+#EXTINF:-1 group-title="Malaysia và Singapore" tvg-id="1002" tvg-chno="1002" tvg-logo="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%27956283%27&EntityType=%27Item%27&EntityId=%2797072%27&Width=150&Height=150&ImageUrl=%27956283.png%27&device=%27web_browser%27&subscriptions=%27Registered%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",CNA
 https://tglmp03.akamaized.net/out/v1/435d5ae6f4734fde963642147a852bfb/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=612eb711dfb444f7a194c5e20d7f7048&key=b6226449b9ed5066542e6d6ad5ecb346
-#EXTINF:-1 group-title="🇲🇾🇸🇬 Malaysia và Singapore" tvg-id="1003" tvg-chno="1003" tvg-logo="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='2362416'&EntityType='Item'&EntityId='187161'&Width=336&Height=189&ImageUrl='2362416.png'&device='web_browser'&subscriptions='Registered'&segmentationTags='_en,all'&ResizeAction='fill'&HorizontalAlignment='center'&VerticalAlignment='top'",oktolidays
+#EXTINF:-1 group-title="Malaysia và Singapore" tvg-id="1003" tvg-chno="1003" tvg-logo="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='2362416'&EntityType='Item'&EntityId='187161'&Width=336&Height=189&ImageUrl='2362416.png'&device='web_browser'&subscriptions='Registered'&segmentationTags='_en,all'&ResizeAction='fill'&HorizontalAlignment='center'&VerticalAlignment='top'",oktolidays
 https://tglmp03.akamaized.net/out/v1/be732843b7d24bada23e13810282e55f/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=60dc08aae52f4c0b806a8e43f24a12c8&key=30d5b579966d822b215ec51a91d8a271
-#EXTINF:-1 group-title="🇲🇾🇸🇬 Malaysia và Singapore" tvg-id="1004" tvg-chno="1004" tvg-logo="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=85&ImageId=%273748542%27&EntityType=%27Item%27&EntityId=%27245216%27&Width=336&Height=189&ImageUrl=%273748542.jpg%27&device=%27web_browser%27&subscriptions=%27Registered%27&segmentationTags=%27_en,all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Global Citizen
+#EXTINF:-1 group-title="Malaysia và Singapore" tvg-id="1004" tvg-chno="1004" tvg-logo="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=85&ImageId=%273748542%27&EntityType=%27Item%27&EntityId=%27245216%27&Width=336&Height=189&ImageUrl=%273748542.jpg%27&device=%27web_browser%27&subscriptions=%27Registered%27&segmentationTags=%27_en,all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Global Citizen
 https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
-#EXTINF:-1 group-title="🇲🇾🇸🇬 Malaysia và Singapore" tvg-id="1006" tvg-chno="1006" tvg-logo="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&ImageId='3350445'&EntityType='Item'&EntityId='229211'&Width=237&Height=237&ImageUrl='3350445.jpg'&device='web_browser'&subscriptions='Registered'&segmentationTags='_en,all'&ResizeAction='fill'&HorizontalAlignment='center'&VerticalAlignment='top'",meWATCH LIVE 1 [Unencrypted]
+#EXTINF:-1 group-title="Malaysia và Singapore" tvg-id="1006" tvg-chno="1006" tvg-logo="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&ImageId='3350445'&EntityType='Item'&EntityId='229211'&Width=237&Height=237&ImageUrl='3350445.jpg'&device='web_browser'&subscriptions='Registered'&segmentationTags='_en,all'&ResizeAction='fill'&HorizontalAlignment='center'&VerticalAlignment='top'",meWATCH LIVE 1 [Unencrypted]
 https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=60dc08aae52f4c0b806a8e43f24a12c8&key=30d5b579966d822b215ec51a91d8a271
-#EXTINF:-1 group-title="🇲🇾🇸🇬 Malaysia và Singapore" tvg-id="1007" tvg-chno="1007" tvg-logo="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&ImageId='3350553'&EntityType='Item'&EntityId='229212'&Width=237&Height=237&ImageUrl='3350553.jpg'&device='web_browser'&subscriptions='Registered'&segmentationTags='_en,all'&ResizeAction='fill'&HorizontalAlignment='center'&VerticalAlignment='top'",meWATCH LIVE 2
+#EXTINF:-1 group-title="Malaysia và Singapore" tvg-id="1007" tvg-chno="1007" tvg-logo="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&ImageId='3350553'&EntityType='Item'&EntityId='229212'&Width=237&Height=237&ImageUrl='3350553.jpg'&device='web_browser'&subscriptions='Registered'&segmentationTags='_en,all'&ResizeAction='fill'&HorizontalAlignment='center'&VerticalAlignment='top'",meWATCH LIVE 2
 https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
 
 
