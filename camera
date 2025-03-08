@@ -1,3 +1,5 @@
+#EXTM3U
+
 #EXTINF:0,Cao Tốc LTDG - cầu Bà Dạt 1	
 http://125.234.114.126:11984/api/stream.mp4?src=Cao Tốc LTDG - cầu Bà Dạt 1&mp4
 #EXTINF:0,Cao Tốc LTDG - cầu Bà Dạt 2	
