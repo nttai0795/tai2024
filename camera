@@ -258,13 +258,13 @@ http://125.234.114.126:11984/api/stream.mp4?src=TTH%2021.10%20C%E1%BA%A7u%20v%C6
 http://125.234.114.126:11984/api/stream.mp4?src=TTH%2033.8%20C%E1%BA%A7u%20v%C6%B0%E1%BB%A3t%20Tr%E1%BA%A1m%202%20%28Q9%20-%3ET%C4%90%29
 #EXTINF:0, Cầu vượt Trạm 2 (TĐ ->Q9)	
 http://125.234.114.126:11984/api/stream.mp4?src=TTH%2033.9%20C%E1%BA%A7u%20v%C6%B0%E1%BB%A3t%20Tr%E1%BA%A1m%202%20%28T%C4%90%20-%3EQ9%29
-#EXTINF:0, Chí Thọ - Đồng Văn Cống 1	
+#EXTINF:0, Mai Chí Thọ - Đồng Văn Cống 1	
 http://125.234.114.126:11984/api/stream.mp4?src=Mai%20Ch%C3%AD%20Th%E1%BB%8D%20-%20%C4%90%E1%BB%93ng%20V%C4%83n%20C%E1%BB%91ng%201
-#EXTINF:0, Chí Thọ - Đồng Văn Cống 2	
+#EXTINF:0, Mai Chí Thọ - Đồng Văn Cống 2	
 http://125.234.114.126:11984/api/stream.mp4?src=Mai%20Ch%C3%AD%20Th%E1%BB%8D%20-%20%C4%90%E1%BB%93ng%20V%C4%83n%20C%E1%BB%91ng%202
-#EXTINF:0, Chí Thọ - Lương Đinh Của 1	
+#EXTINF:0, Mai Chí Thọ - Lương Đinh Của 1	
 http://125.234.114.126:11984/api/stream.mp4?src=Mai%20Ch%C3%AD%20Th%E1%BB%8D%20-%20L%C6%B0%C6%A1ng%20%C4%90inh%20C%E1%BB%A7a%201
-#EXTINF:0, Chí Thọ - Lương Đinh Của 2	
+#EXTINF:0, Mai Chí Thọ - Lương Đinh Của 2	
 http://125.234.114.126:11984/api/stream.mp4?src=Mai%20Ch%C3%AD%20Th%E1%BB%8D%20-%20L%C6%B0%C6%A1ng%20%C4%90inh%20C%E1%BB%A7a%202
 #EXTINF:0, Cộng Hòa - Ấp Bắc	
 http://125.234.114.126:11984/api/stream.mp4?src=TTH%20357%20C%E1%BB%99ng%20H%C3%B2a%20-%20%E1%BA%A4p%20B%E1%BA%AFc
@@ -636,7 +636,7 @@ http://125.234.114.126:11984/api/stream.mp4?src=TTH%20346%20H%C6%B0%C6%A1ng%20L%
 http://125.234.114.126:11984/api/stream.mp4?src=TTH%202812%20Hu%E1%BB%B3nh%20T%E1%BA%A5n%20Ph%C3%A1t
 #EXTINF:0, Huỳnh Tấn Phát - Cầu Tân Thuận 1	
 http://125.234.114.126:11984/api/stream.mp4?src=TTH%20309%20Hu%E1%BB%B3nh%20T%E1%BA%A5n%20Ph%C3%A1t%20-%20C%E1%BA%A7u%20T%C3%A2n%20Thu%E1%BA%ADn%201
-#EXTINF:0, Huỳnh Tấn Phát - cầu Tân Thuận 1	
+#EXTINF:0, Huỳnh Tấn Phát - cầu Tân Thuận 2
 http://125.234.114.126:11984/api/stream.mp4?src=TTH%20323.2%20Hu%E1%BB%B3nh%20T%E1%BA%A5n%20Ph%C3%A1t%20-%20c%E1%BA%A7u%20T%C3%A2n%20Thu%E1%BA%ADn%201
 #EXTINF:0, Huỳnh Tấn Phát - Hoàng Quốc Việt	
 http://125.234.114.126:11984/api/stream.mp4?src=TTH%20319%20Hu%E1%BB%B3nh%20T%E1%BA%A5n%20Ph%C3%A1t%20-%20Ho%C3%A0ng%20Qu%E1%BB%91c%20Vi%E1%BB%87t
@@ -668,8 +668,6 @@ http://125.234.114.126:11984/api/stream.mp4?src=TTH%20183.2%20Kh%C3%A1nh%20H%E1%
 http://125.234.114.126:11984/api/stream.mp4?src=TTH%20310%20Kinh%20D%C6%B0%C6%A1ng%20V%C6%B0%C6%A1ng%20-%20H%E1%BB%93%20H%E1%BB%8Dc%20L%C3%A3m
 #EXTINF:0, Kinh Dương Vương - Tên Lửa	
 http://125.234.114.126:11984/api/stream.mp4?src=Kinh%20D%C6%B0%C6%A1ng%20V%C6%B0%C6%A1ng%20-%20T%C3%AAn%20L%E1%BB%ADa
-#EXTINF:0, Kinh Dương Vương - Tên Lửa	
-http://125.234.114.126:11984/api/stream.mp4?src=TTH%20308%20Kinh%20D%C6%B0%C6%A1ng%20V%C6%B0%C6%A1ng%20-%20T%C3%AAn%20L%E1%BB%ADa
 #EXTINF:0, Kỳ Đồng - Bà Huyện Thanh Quan	
 http://125.234.114.126:11984/api/stream.mp4?src=TTH%20255%20K%E1%BB%B3%20%C4%90%E1%BB%93ng%20-%20B%C3%A0%20Huy%E1%BB%87n%20Thanh%20Quan
 #EXTINF:0, Lã Xuân Oai - Cầu Tăng Long (1)	
@@ -700,7 +698,7 @@ http://125.234.114.126:11984/api/stream.mp4?src=TTH%20376%20L%C3%AA%20Lai%20-%20
 http://125.234.114.126:11984/api/stream.mp4?src=TTH%20251%20L%C3%AA%20Lai%20-%20Phan%20Chu%20Trinh
 #EXTINF:0, Lê Lợi - Pasteur	
 http://125.234.114.126:11984/api/stream.mp4?src=ITS%207.3%20L%C3%AA%20L%E1%BB%A3i%20-%20Pasteur
-#EXTINF:0, Lê Lợi - Pasteur HD	
+#EXTINF:0, Lê Lợi - Pasteur 2
 http://125.234.114.126:11984/api/stream.mp4?src=ITS%20L%C3%AA%20L%E1%BB%A3i%20-%20Pasteur
 #EXTINF:0, Lê Lợi - Phan Bội Châu	
 http://125.234.114.126:11984/api/stream.mp4?src=TTH%20398%20L%C3%AA%20L%E1%BB%A3i%20-%20Phan%20B%E1%BB%99i%20Ch%C3%A2u
@@ -750,19 +748,19 @@ http://125.234.114.126:11984/api/stream.mp4?src=TTH%20105.2%20L%C3%AA%20V%C4%83n
 http://125.234.114.126:11984/api/stream.mp4?src=TTH%20216%20L%C3%AA%20V%C4%83n%20Vi%E1%BB%87t%20-%20Ho%C3%A0ng%20H%E1%BB%AFu%20Nam
 #EXTINF:0, Lê Văn Việt - Man Thiện	
 http://125.234.114.126:11984/api/stream.mp4?src=TTH%20105.3%20L%C3%AA%20V%C4%83n%20Vi%E1%BB%87t%20-%20Man%20Thi%E1%BB%87n
-#EXTINF:0, Lộ 1 - Đinh Đức Thiện 21	
+#EXTINF:0, Quốc Lộ 1 - Đinh Đức Thiện 21	
 http://125.234.114.126:11984/api/stream.mp4?src=Qu%E1%BB%91c%20L%E1%BB%99%201%20-%20%C4%90inh%20%C4%90%E1%BB%A9c%20Thi%E1%BB%87n%2021
-#EXTINF:0, Lộ Hà Nội - Đường 120	
+#EXTINF:0, Xa Lộ Hà Nội - Đường 120	
 http://125.234.114.126:11984/api/stream.mp4?src=Xa%20L%E1%BB%99%20H%C3%A0%20N%E1%BB%99i%20-%20%C4%90%C6%B0%E1%BB%9Dng%20120
-#EXTINF:0, Lộ Hà Nội - Đường D1	
+#EXTINF:0, Xa Lộ Hà Nội - Đường D1	
 http://125.234.114.126:11984/api/stream.mp4?src=Xa%20L%E1%BB%99%20H%C3%A0%20N%E1%BB%99i%20-%20%C4%90%C6%B0%E1%BB%9Dng%20D1
-#EXTINF:0, Lộ Hà Nội - Đường D400	
+#EXTINF:0, Xa Lộ Hà Nội - Đường D400	
 http://125.234.114.126:11984/api/stream.mp4?src=Xa%20L%E1%BB%99%20H%C3%A0%20N%E1%BB%99i%20-%20%C4%90%C6%B0%E1%BB%9Dng%20D400
-#EXTINF:0, Lộ Hà Nội - Tây Hòa 1	
+#EXTINF:0, Xa Lộ Hà Nội - Tây Hòa 1	
 http://125.234.114.126:11984/api/stream.mp4?src=Xa%20L%E1%BB%99%20H%C3%A0%20N%E1%BB%99i%20-%20T%C3%A2y%20H%C3%B2a%201
-#EXTINF:0, Lộ Hà Nội - Tây Hòa 2	
+#EXTINF:0, Xa Lộ Hà Nội - Tây Hòa 2	
 http://125.234.114.126:11984/api/stream.mp4?src=Xa%20L%E1%BB%99%20H%C3%A0%20N%E1%BB%99i%20-%20T%C3%A2y%20H%C3%B2a%202
-#EXTINF:0, Lộ Hà Nội - Thảo Điền	
+#EXTINF:0, Xa Lộ Hà Nội - Thảo Điền	
 http://125.234.114.126:11984/api/stream.mp4?src=Xa%20L%E1%BB%99%20H%C3%A0%20N%E1%BB%99i%20-%20Th%E1%BA%A3o%20%C4%90i%E1%BB%81n
 #EXTINF:0, Lũy Bán Bích - Thoại Ngọc Hầu	
 http://125.234.114.126:11984/api/stream.mp4?src=TTH%20292%20L%C5%A9y%20B%C3%A1n%20B%C3%ADch%20-%20Tho%E1%BA%A1i%20Ng%E1%BB%8Dc%20H%E1%BA%A7u
@@ -1304,7 +1302,7 @@ http://125.234.114.126:11984/api/stream.mp4?src=TTH%20283%20Phan%20V%C4%83n%20Tr
 http://125.234.114.126:11984/api/stream.mp4?src=TTH%2026.4%20Ph%E1%BB%95%20Quang%20-%20Ho%C3%A0ng%20Minh%20Gi%C3%A1m
 #EXTINF:0, Phổ Quang - Huỳnh Lan Khanh	
 http://125.234.114.126:11984/api/stream.mp4?src=TTH%2026.2%20Ph%E1%BB%95%20Quang%20-%20Hu%E1%BB%B3nh%20Lan%20Khanh
-#EXTINF:0, Puoyen 1	
+#EXTINF:0, QL1 - Cty Pouyuen (1)
 http://125.234.114.126:11984/api/stream.mp4?src=TTH%20Puoyen%201
 #EXTINF:0, QL 22 - Giáp Hải	
 http://125.234.114.126:11984/api/stream.mp4?src=TTH%2047.5%20QL%2022%20-%20Gi%C3%A1p%20H%E1%BA%A3i
