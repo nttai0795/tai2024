@@ -584,11 +584,7 @@ http://live2onsport.vtvcab.vn/onplus/BONGDA_HD/manifest.mpd
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://ott1.sgchill.io.vn/backend/xemtvtructuyen/source/vstv521/186/index.m3u8
 #EXTINF:-1 tvg-id="onsportsnews" group-title="VTVcab" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/vtvcab/vtvcab18.png",ON Sports News
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://api.sgchill.io.vn/v8/key/tv.xml
-http://live2onsport.vtvcab.vn/onplus/THETHAO_TINTUC_HD/manifest.mpd
+https://truyenhinh.click/vtvcab18
 #EXTINF:-1 tvg-id="onviedramas" group-title="VTVcab" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/vtvcab/vtvcab19.png",ON Vie DRAMAS
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://ott1.sgchill.io.vn/backend/xemtvtructuyen/source/vstv521/177/index.m3u8
