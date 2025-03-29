@@ -654,7 +654,7 @@ http://e8.endpoint.cdn.sctvonline.vn/hls/sctv14/index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://api.sgchill.io.vn/v8/key/tv.xml
-http://live2onsport.vtvcab.vn/onplus/SCTV15HD/manifest.mpd
+https://truyenhinh.click/SCTV15HD
 #EXTINF:-1 tvg-id="sctv16hd" group-title="SCTV" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/sctv/sctv16.png",SCTV16
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
 http://e1.endpoint.cdn.sctvonline.vn/channel/sctv16/index.m3u8
@@ -663,7 +663,7 @@ http://e1.endpoint.cdn.sctvonline.vn/channel/sctv16/index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://api.sgchill.io.vn/v8/key/tv.xml
-http://live2onsport.vtvcab.vn/onplus/SCTV17/manifest.mpd
+https://truyenhinh.click/SCTV17HD
 #EXTINF:-1 tvg-id="sctv18hd" group-title="SCTV" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/sctv/sctv18.png",SCTV18
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
 http://e1.endpoint.cdn.sctvonline.vn/channel/sctv18/index.m3u8
@@ -676,6 +676,8 @@ http://e1.endpoint.cdn.sctvonline.vn/channel/sctv20/index.m3u8
 #EXTINF:-1 tvg-id="sctv21hd" group-title="SCTV" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/sctv/sctv21.png",SCTV21
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
 http://e1.endpoint.cdn.sctvonline.vn/channel/sctv21/index.m3u8
+#EXTINF:-1 tvg-id="sctv22hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/SCTV22.jpg", SCTV22 HD
+https://truyenhinh.click/SCTV22HD
 #EXTINF:-1 tvg-id="sctvhdpth" group-title="SCTV" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/sctv/sctvpth.png",SCTV Phim Tổng Hợp
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
 http://e8.endpoint.cdn.sctvonline.vn/hls/sctvphimtonghop/index.m3u8
