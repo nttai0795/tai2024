@@ -239,8 +239,8 @@ udp://@225.1.2.180:30120
 udp://@225.1.1.40:30120
 #EXTINF:0 tvg-id="hanoi1" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/mwCTDMj.png",H1 HD - Hà Nội
 udp://@225.1.2.186:30120
-#EXTINF:0 tvg-id="hanoi2" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/HyiwlZV.png",H2 HD - Hà Nội
-udp://@225.1.1.125:30120
+#EXTINF:0 tvg-id="hanoi2" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/HyiwlZV.png",H2 UHD - Hà Nội
+udp://@225.1.1.109:30120
 #EXTINF:0 tvg-id="haiduong" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/QmzXd4R.png",THD - Hải Dương
 udp://@225.1.1.158:30120
 #EXTINF:0 tvg-id="haiphong" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/StFk4PA.png",THP HD - TP. Hải Phòng
