@@ -1017,99 +1017,52 @@ https://wbd.x10.bz/tvmp/?id=15
 
 #EXTINF:-1 tvg-id="sctv1hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/SCTV1HD.jpg", SCTV1 HD
 https://liveh12.seenow.vn/hls/SCTV1/03.m3u8
-#EXTINF:-1 tvg-id="sctv1hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/SCTV1HD.jpg", SCTV1 HD sv2
-http://khaitv.giize.com:8080/thapcam/proxy.php?url=https%3A%2F%2Ffreem3u.xyz%2Fapi%2Flive%2Fplay.m3u8%3Fmid%3D769&referer=https%3A%2F%2Fmytv.com.vn%2F
 #EXTINF:-1 tvg-id="sctv2hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/SCTV2TODAYTV.jpg", SCTV2 HD - TODAY TV
 https://sgchill.io.vn/360/201/index.m3u8
-#EXTINF:-1 tvg-id="sctv2hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/SCTV2TODAYTV.jpg", SCTV2 HD - TODAY TV sv2
-http://khaitv.giize.com:8080/thapcam/proxy.php?url=https%3A%2F%2Ffreem3u.xyz%2Fapi%2Flive%2Fplay.m3u8%3Fmid%3D772&referer=https%3A%2F%2Fmytv.com.vn%2F
 #EXTINF:-1 tvg-id="sctv3hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/SCTV3.jpg", SCTV3 HD
 https://liveh12.seenow.vn/hls/SCTV3/03.m3u8
-#EXTINF:-1 tvg-id="sctv3hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/SCTV3.jpg", SCTV3 HD sv2
-http://khaitv.giize.com:8080/thapcam/proxy.php?url=https%3A%2F%2Ffreem3u.xyz%2Fapi%2Flive%2Fplay.m3u8%3Fmid%3D775&referer=https%3A%2F%2Fmytv.com.vn%2F
 #EXTINF:-1 tvg-id="sctv4hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/SCTV4.jpg", SCTV4 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://sctvonline.vn/
 https://liveh12.seenow.vn/hls/SCTV4/03.m3u8
-#EXTINF:-1 tvg-id="sctv4hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/SCTV4.jpg", SCTV4 HD sv2
-http://khaitv.giize.com:8080/thapcam/proxy.php?url=https%3A%2F%2Ffreem3u.xyz%2Fapi%2Flive%2Fplay.m3u8%3Fmid%3D778&referer=https%3A%2F%2Fmytv.com.vn%2F
 #EXTINF:-1 group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/SCTV5.jpg", SCTV5 HD - SCJ
 http://bentre5.hoangai.vn:8082/sctv/get.php?id=sctv5
 #EXTINF:-1 tvg-id="sctv6hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/SCTV6.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/film360_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", SCTV6 HD
-https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8
+udp://@225.1.1.188:30120
 
 #EXTINF:-1 tvg-id="sctv7hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SCTV7.jpg", SCTV7 HD
 https://liveh12.seenow.vn/hls/SCTV7/03.m3u8
-#EXTINF:-1 tvg-id="sctv7hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SCTV7.jpg", SCTV7 HD sv2
-http://khaitv.giize.com:8080/thapcam/proxy.php?url=https%3A%2F%2Ffreem3u.xyz%2Fapi%2Flive%2Fplay.m3u8%3Fmid%3D784&referer=https%3A%2F%2Fmytv.com.vn%2F
 #EXTINF:-1 tvg-id="sctv8hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/SCTV8.jpg", SCTV8 HD
 https://liveh12.seenow.vn/hls/SCTV8/03.m3u8
 #EXTINF:-1 tvg-id="sctv9hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/SCTV9.jpg", SCTV9 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://sctvonline.vn/
 http://bentre5.hoangai.vn:12345/192.168.2.41:100/stream?url=https://cdnet-cdn-01.onsports.vn/onplus/SCTV9/manifest.mpd&key=30d13ea42031b9ff8271e5dc37d90e10
-#EXTINF:-1 tvg-id="sctv9hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/SCTV9.jpg", SCTV9 HD SV2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 
-http://bentre5.hoangai.vn:3333/get_media_link?path=https://tvmienphi.org/live-tv/xem-kenh-sctv9-truc-tuyen.html&extension=token=&n=1&request=1&location=yes
-#EXTINF:-1 tvg-id="sctv9hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/SCTV9.jpg", SCTV9 HD SV3
-http://khaitv.giize.com:8080/thapcam/proxy.php?url=https%3A%2F%2Ffreem3u.xyz%2Fapi%2Flive%2Fplay.m3u8%3Fmid%3D790&referer=https%3A%2F%2Fmytv.com.vn%2F
 #EXTINF:-1 group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/SCTV10.jpg", SCTV10
 http://bentre5.hoangai.vn:8082/sctv/get.php?id=sctv10
 #EXTINF:-1 tvg-id="sctv11hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/SCTV11.jpg", SCTV11 HD
 https://liveh12.seenow.vn/hls/SCTV11/03.m3u8
-#EXTINF:-1 tvg-id="sctv11hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/SCTV11.jpg", SCTV11 HD sv2
-http://khaitv.giize.com:8080/thapcam/proxy.php?url=https%3A%2F%2Ffreem3u.xyz%2Fapi%2Flive%2Fplay.m3u8%3Fmid%3D793&referer=https%3A%2F%2Fmytv.com.vn%2F
 #EXTINF:-1 tvg-id="sctv12hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/SCTV12.jpg", SCTV12 HD
 https://liveh12.seenow.vn/hls/SCTV12/03.m3u8
-#EXTINF:-1 tvg-id="sctv12hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/SCTV12.jpg", SCTV12 HD sv2
-http://khaitv.giize.com:8080/thapcam/proxy.php?url=https%3A%2F%2Ffreem3u.xyz%2Fapi%2Flive%2Fplay.m3u8%3Fmid%3D796&referer=https%3A%2F%2Fmytv.com.vn%2F
 #EXTINF:-1 tvg-id="sctv13hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/SCTV13.jpg", SCTV13 HD
 https://liveh12.seenow.vn/hls/SCTV13/03.m3u8
-#EXTINF:-1 tvg-id="sctv13hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/SCTV13.jpg", SCTV13 HD sv2
-http://khaitv.giize.com:8080/thapcam/proxy.php?url=https%3A%2F%2Ffreem3u.xyz%2Fapi%2Flive%2Fplay.m3u8%3Fmid%3D799&referer=https%3A%2F%2Fmytv.com.vn%2F
 #EXTINF:-1 tvg-id="sctv14hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/SCTV14.jpg", SCTV14 HD
 https://liveh12.seenow.vn/hls/SCTV14/03.m3u8
-#EXTINF:-1 tvg-id="sctv14hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/SCTV14.jpg", SCTV14 HD sv2
-http://khaitv.giize.com:8080/thapcam/proxy.php?url=https%3A%2F%2Ffreem3u.xyz%2Fapi%2Flive%2Fplay.m3u8%3Fmid%3D802&referer=https%3A%2F%2Fmytv.com.vn%2F
 #EXTINF:-1 tvg-id="sctv15hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/SCTV15.jpg", SCTV15 HD
 http://bentre5.hoangai.vn:12345/192.168.2.41:100/stream?url=https://cdnet-cdn-01.onsports.vn/onplus/SCTV15HD/manifest.mpd&key=30d13ea42031b9ff8271e5dc37d90e10
-#EXTINF:-1 tvg-id="sctv15hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/SCTV15.jpg", SCTV15 HD sv2
-http://khaitv.giize.com:8080/thapcam/proxy.php?url=https%3A%2F%2Ffreem3u.xyz%2Fapi%2Flive%2Fplay.m3u8%3Fmid%3D823&referer=https%3A%2F%2Fmytv.com.vn%2F
-#EXTINF:-1 tvg-id="sctv16hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/SCTV16.jpg", SCTV16 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 
-http://bentre5.hoangai.vn:3333/get_media_link?path=https://tvmienphi.org/live-tv/xem-kenh-sctv16-truc-tuyen.html&extension=token=&n=1&request=1&location=yes
-#EXTINF:-1 tvg-id="sctv16hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/SCTV16.jpg", SCTV16 HD sv2
-http://khaitv.giize.com:8080/thapcam/proxy.php?url=https%3A%2F%2Ffreem3u.xyz%2Fapi%2Flive%2Fplay.m3u8%3Fmid%3D805&referer=https%3A%2F%2Fmytv.com.vn%2F
+
 #EXTINF:-1 tvg-id="sctv17hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/SCTV17.jpg", SCTV17 HD
-http://khaitv.giize.com:8080/thapcam/proxy.php?url=https%3A%2F%2Ffreem3u.xyz%2Fapi%2Flive%2Fplay.m3u8%3Fmid%3D826&referer=https%3A%2F%2Fmytv.com.vn%2F
-#EXTINF:-1 tvg-id="sctv17hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/SCTV17.jpg", SCTV17 HD sv2
 http://khaitv.giize.com:8080/thapcam/proxy.php?url=https%3A%2F%2Ffreem3u.xyz%2Fapi%2Flive%2Fplay.m3u8%3Fmid%3D826&referer=https%3A%2F%2Fmytv.com.vn%2F
 #EXTINF:-1 tvg-id="sctv18hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/SCTV18.jpg", SCTV18 HD
 https://liveh12.seenow.vn/hls/SCTV18/03.m3u8
-#EXTINF:-1 tvg-id="sctv18hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/SCTV18.jpg", SCTV18 HD sv2
-http://khaitv.giize.com:8080/thapcam/proxy.php?url=https%3A%2F%2Ffreem3u.xyz%2Fapi%2Flive%2Fplay.m3u8%3Fmid%3D808&referer=https%3A%2F%2Fmytv.com.vn%2F
 #EXTINF:-1 tvg-id="sctv19hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/SCTV19.jpg", SCTV19 HD
 http://bentre5.hoangai.vn:8082/sctv/get.php?id=sctv19
-#EXTINF:-1 tvg-id="sctv19hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/SCTV19.jpg", SCTV19 HD sv2
-http://khaitv.giize.com:8080/thapcam/proxy.php?url=https%3A%2F%2Ffreem3u.xyz%2Fapi%2Flive%2Fplay.m3u8%3Fmid%3D811&referer=https%3A%2F%2Fmytv.com.vn%2F
 #EXTINF:-1 tvg-id="sctv20hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/SCTV20.jpg", SCTV20 HD
 http://bentre5.hoangai.vn:8082/sctv/get.php?id=sctv20
-#EXTINF:-1 tvg-id="sctv20hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/SCTV20.jpg", SCTV20 HD sv2
-http://khaitv.giize.com:8080/thapcam/proxy.php?url=https%3A%2F%2Ffreem3u.xyz%2Fapi%2Flive%2Fplay.m3u8%3Fmid%3D814&referer=https%3A%2F%2Fmytv.com.vn%2F
 #EXTINF:-1 tvg-id="sctv21hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/SCTV21.jpg", SCTV21 HD
 http://bentre5.hoangai.vn:8082/sctv/get.php?id=sctv21
-#EXTINF:-1 tvg-id="sctv21hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/SCTV21.jpg", SCTV21 HD sv2
-http://khaitv.giize.com:8080/thapcam/proxy.php?url=https%3A%2F%2Ffreem3u.xyz%2Fapi%2Flive%2Fplay.m3u8%3Fmid%3D817&referer=https%3A%2F%2Fmytv.com.vn%2F
 #EXTINF:-1 tvg-id="sctv22hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/SCTV22.jpg", SCTV22 HD
-http://khaitv.giize.com:8080/thapcam/proxy.php?url=https%3A%2F%2Ffreem3u.xyz%2Fapi%2Flive%2Fplay.m3u8%3Fmid%3D829&referer=https%3A%2F%2Fmytv.com.vn%2F
-#EXTINF:-1 tvg-id="sctv22hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/SCTV22.jpg", SCTV22 HD sv2
 http://khaitv.giize.com:8080/thapcam/proxy.php?url=https%3A%2F%2Ffreem3u.xyz%2Fapi%2Flive%2Fplay.m3u8%3Fmid%3D829&referer=https%3A%2F%2Fmytv.com.vn%2F
 #EXTINF:-1 tvg-id="sctvhdpth" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/SCTVPTH.jpg", SCTV HD Phim Tổng Hợp
 https://liveh12.seenow.vn/hls/SCTVPHIM/03.m3u8
-#EXTINF:-1 tvg-id="sctvhdpth" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/SCTVPTH.jpg", SCTV HD Phim Tổng Hợp sv2
-http://khaitv.giize.com:8080/thapcam/proxy.php?url=https%3A%2F%2Ffreem3u.xyz%2Fapi%2Flive%2Fplay.m3u8%3Fmid%3D766&referer=https%3A%2F%2Fmytv.com.vn%2F
-#EXTINF:0 group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/HTV2VIECHANNEL.jpg",HTV 2
-http://khaitv.giize.com:8080/tvmienphi/get360.php?id=191
 
 
 
@@ -1119,10 +1072,5 @@ http://bentre5.hoangai.vn:12345/192.168.2.41:100/stream?url=https://cdnet-cdn-01
 #EXTINF:-1 tvg-id="kaction" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/01/03/16/1704275031605/a72d5eab8255_640_360.png", K+ACTION SD
 http://bentre5.hoangai.vn:12345/192.168.2.41:100/stream?url=https://cdnet-cdn-01.onsports.vn/onplus/K_LIFE_7777/manifest.mpd&key=30d13ea42031b9ff8271e5dc37d90e10
 
-
-#EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/01/04/1680297664931/fb287ae7a7ad_640_360.png", K+CINE SD
-http://hoatv001.ddns.net:9981/stream/channelid/725255302?profile=pass
-#EXTINF:-1 tvg-id="kaction" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/01/03/16/1704275031605/a72d5eab8255_640_360.png", K+ACTION SD
-http://bentre5.hoangai.vn:12345/192.168.2.41:100/stream?url=https://cdnet-cdn-01.onsports.vn/onplus/K_LIFE_7777/manifest.mpd&key=30d13ea42031b9ff8271e5dc37d90e10
 
 
