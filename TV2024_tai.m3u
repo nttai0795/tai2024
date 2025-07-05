@@ -185,7 +185,7 @@ https://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
 udp://@225.1.1.132:30120
 #EXTINF:0 tvg-id="haugiang" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/THTPCT_CanTho.png",THTPCT - Hậu Giang cũ
 udp://@225.1.1.157:30120
-#EXTINF:-1 tvg-id="soctrang" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/THTPCT2.png",THTPCT2 - Sóc Trăng cũ
+#EXTINF:-1 tvg-id="soctrang" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/THTPCT2.png",THTPCT2 - Sóc Trăng cũ
 https://pa.thst.vn/hls-live/livepkgr/_definst_/liveevent/livestreamstv2.m3u8
 #EXTINF:0 tvg-id="camau" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/cYqXh3i.png",CTV HD - Cà Mau
 udp://@225.1.1.104:30120
