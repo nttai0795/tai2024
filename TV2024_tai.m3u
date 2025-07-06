@@ -131,7 +131,8 @@ udp://@225.1.3.54:30120
 udp://@225.1.2.169:30120
 #EXTINF:0 tvg-id="qpvnhd" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/UIGZw0y.png",QPVN
 udp://@225.1.2.217:30120
-
+#EXTINF:0 tvg-id="sctv6hd" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/pSIvTkZ.png",SCTV6 (HD 8Mbps)
+udp://@225.1.1.188:30120
 
 
 
@@ -156,7 +157,7 @@ udp://@225.1.1.210:30120
 #EXTINF:0 tvg-id="tiengiang" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/NkHFZ0D.png",THTG HD - Tiền Giang
 udp://@225.1.2.170:30120
 #EXTINF:-1 tvg-id="longan" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/TTV1_TayNinh.png",TTV1 - Long An cũ
-https://sgchill.io.vn/360/72/index.m3u8
+udp://@225.1.1.162:30120
 #EXTINF:0 tvg-id="tayninh" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/0DU4cyg.png",TTV2 - Tây Ninh
 udp://@225.1.1.130:30120
 #EXTINF:0 tvg-id="dongnai1" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/blOZQPI.png",ĐNRTV1 HD - Đồng Nai
@@ -216,9 +217,9 @@ udp://@225.1.1.145:30120
 udp://@225.1.1.64:30120
 #EXTINF:0 tvg-id="phuyen" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/r2xMHkT.png",PTP HD - Phú Yên
 udp://@225.1.2.58:30120
-#EXTINF:0 tvg-id="danang1" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/6OWQ8lU.png",DaNangTV1 HD - TP. Đà Nẵng
+#EXTINF:0 tvg-id="danang1" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/DNRT1_DaNang.png",DaNangTV1 HD - TP. Đà Nẵng
 udp://@225.1.1.147:30120
-#EXTINF:0 tvg-id="danang2" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/hkzIqEV.png",DaNangTV2 HD - TP. Đà Nẵng
+#EXTINF:0 tvg-id="danang2" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/DNRT2_DaNang.png",DaNangTV2 HD - TP. Đà Nẵng
 udp://@225.1.1.146:30120
 #EXTINF:0 tvg-id="quangnam" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/uWHWxZB.png",QRT HD - Quảng Nam
 udp://@225.1.2.50:30120
@@ -244,7 +245,7 @@ udp://@225.1.1.62:30120
 udp://@225.1.1.102:30120
 #EXTINF:0 tvg-id="backan" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/msjevyp.png",TBK HD - Bắc Kạn
 udp://@225.1.1.126:30120
-#EXTINF:0 tvg-id="thainguyen" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/UBcqMiY.png",TN1 HD - Thái Nguyên
+#EXTINF:0 tvg-id="thainguyen" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/TN_ThaiNguyen.png",TN1 HD - Thái Nguyên
 udp://@225.1.2.179:30120
 #EXTINF:0 tvg-id="langson" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/6FCXyrr.png",LSTV HD - Lạng Sơn
 udp://@225.1.1.160:30120
@@ -252,7 +253,7 @@ udp://@225.1.1.160:30120
 udp://@225.1.2.181:30120
 #EXTINF:0 tvg-id="quangninh3" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/4hadYbw.png",QTV3 HD - Quảng Ninh
 udp://@225.1.2.180:30120
-#EXTINF:0 tvg-id="bacninh" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/zUFSFCV.png",BTV - Bắc Ninh
+#EXTINF:0 tvg-id="bacninh" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/BTV_BacNinh.png",BTV - Bắc Ninh
 udp://@225.1.1.40:30120
 #EXTINF:0 tvg-id="bacgiang" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/05t6W7v.png",BGTV - Bắc Giang
 udp://@225.1.1.164:30120
