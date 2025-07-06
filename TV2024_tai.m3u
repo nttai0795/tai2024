@@ -133,7 +133,8 @@ udp://@225.1.2.169:30120
 udp://@225.1.2.217:30120
 #EXTINF:0 tvg-id="sctv6hd" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/pSIvTkZ.png",SCTV6 (HD 8Mbps)
 udp://@225.1.1.188:30120
-
+#EXTINF:0 tvg-id="sctv6hd" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/pSIvTkZ.png",SCTV22 (HD 8Mbps)
+http://khaitv.giize.com:8080/mytv/get.php?id=829
 
 
 #-------------------Địa phương-------------------#
