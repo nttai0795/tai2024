@@ -151,7 +151,7 @@ udp://@225.1.1.235:30120
 #EXTINF:0 tvg-id="vinhlong4hd" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/xYalJzh.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=429&time=${start}&offset=${duration}",THVL4 HD - Vĩnh Long
 udp://@225.1.2.25:30120
 #EXTINF:0 tvg-id="dongthap" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/UfOw13y.png",THĐT1 - Đồng Tháp
-udp://@225.1.1.163:30120
+udp://@225.1.3.24:30120
 #EXTINF:0 tvg-id="" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/WXebESa.png",THĐT2 - Đồng Tháp
 udp://@225.1.1.210:30120
 #EXTINF:0 tvg-id="tiengiang" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/UfOw13y.png",THĐT - Tiền Giang cũ
