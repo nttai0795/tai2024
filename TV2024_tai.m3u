@@ -154,7 +154,7 @@ udp://@225.1.2.25:30120
 udp://@225.1.1.163:30120
 #EXTINF:0 tvg-id="" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/WXebESa.png",THĐT2 - Đồng Tháp
 udp://@225.1.1.210:30120
-#EXTINF:0 tvg-id="tiengiang" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/NkHFZ0D.png",THTG HD - Tiền Giang
+#EXTINF:0 tvg-id="tiengiang" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/UfOw13y.png",THĐT - Tiền Giang cũ
 udp://@225.1.2.170:30120
 #EXTINF:-1 tvg-id="longan" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/TTV1_TayNinh.png",TTV1 - Long An cũ
 udp://@225.1.1.162:30120
@@ -186,7 +186,7 @@ https://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
 udp://@225.1.1.132:30120
 #EXTINF:0 tvg-id="haugiang" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/THTPCT_CanTho.png",THTPCT - Hậu Giang cũ
 udp://@225.1.1.157:30120
-#EXTINF:-1 tvg-id="soctrang" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/THTPCT2.png",THTPCT2 - Sóc Trăng cũ
+#EXTINF:-1 tvg-id="soctrang" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/THTPCT3.jpg",THTPCT3 - Sóc Trăng cũ
 https://pa.thst.vn/hls-live/livepkgr/_definst_/liveevent/livestreamstv2.m3u8
 #EXTINF:0 tvg-id="camau" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/cYqXh3i.png",CTV HD - Cà Mau
 udp://@225.1.1.104:30120
