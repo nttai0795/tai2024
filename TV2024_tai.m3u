@@ -280,7 +280,8 @@ udp://@225.1.2.183:30120
 udp://@225.1.1.75:30120
 #EXTINF:0 tvg-id="quangtri" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/yIHs2sI.png",QRTV HD - Quảng Trị
 udp://@225.1.1.117:30120
-
+#EXTINF:0 tvg-id="quangbinh" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/8yOdFDx.png",QBTV - Quảng Bình
+udp://@225.1.2.164:30120
 
 
 
@@ -296,10 +297,10 @@ udp://@225.1.1.63:30120
 udp://@225.1.1.118:30120
 #EXTINF:0 tvg-id="thanhhoa" group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/NlOwltd.png",TTV - Thanh Hóa
 udp://@225.1.2.184:30120
-#EXTINF:0 tvg-id="quangbinh" group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/8yOdFDx.png",QBTV - Quảng Bình
-udp://@225.1.2.164:30120
 #EXTINF:0 tvg-id="hue" group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/q5MBibm.png",HUETV - Huế
 udp://@225.1.1.161:30120
+#EXTINF:0 tvg-id="hue" group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/q5MBibm.png",HUETV - Huế
+https://live.huetv.com.vn/TRT-Online/playlist.m3u8
 #EXTINF:0 tvg-id="longan" group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/jBWD3It.png",TTV1 - Long An
 udp://@225.1.1.162:30120
 #EXTINF:0 tvg-id="soctrang" group-title="Địa phương (SD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/THTPCT_CanTho.png",STV1 - Sóc Trăng
