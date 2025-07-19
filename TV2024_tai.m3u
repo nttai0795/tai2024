@@ -200,12 +200,12 @@ udp://@225.1.1.61:30120
 udp://@225.1.1.133:30120
 #EXTINF:0 tvg-id="ninhthuan" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/KTV1_KhanhHoa.png",KTV1 HD - Ninh Thuận cũ
 udp://@225.1.2.178:30120
-#EXTINF:0 tvg-id="lamdong" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/Tv0fNk3.png",LTV HD - Lâm Đồng
+#EXTINF:0 tvg-id="lamdong" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/Tv0fNk3.png",LTV1 HD - Lâm Đồng
 udp://@225.1.2.177:30120
-#EXTINF:0 tvg-id="binhthuan" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/Tv0fNk3.png",LTV HD - Bình Thuận cũ
+#EXTINF:0 tvg-id="binhthuan" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/Tv0fNk3.png",LTV2 HD - Bình Thuận cũ
 udp://@225.1.1.124:30120
-#EXTINF:0 tvg-id="daknong" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/Tv0fNk3.png",LTV HD - Dak Nông cũ
-https://sgchill.io.vn/360/50/index.m3u8
+#EXTINF:0 tvg-id="daknong" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/Tv0fNk3.png",LTV3 HD - Dak Nông cũ
+https://cloudstreamthdn.tek4tv.vn/live/smil:daknong.smil/playlist.m3u8
 #EXTINF:0 tvg-id="quangngai" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/QNgTV_QuangNgai.png",QNgTV - Quảng Ngãi
 udp://@225.1.2.174:30120
 #EXTINF:0 tvg-id="kontum" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/QNgTV_QuangNgai.png",QNgTV - Kon Tum Cũ
