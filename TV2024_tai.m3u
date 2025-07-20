@@ -1015,8 +1015,10 @@ http://bentre5.hoangai.vn:12345/192.168.2.41:100/stream?url=https://cdnet-cdn-01
 http://bentre5.hoangai.vn:12345/192.168.2.41:100/stream?url=https://cdnet-cdn-01.onsports.vn/onplus/K_LIFE_7777/manifest.mpd&key=30d13ea42031b9ff8271e5dc37d90e10
 #EXTINF:-1 tvg-id="vtvcab3hd" group-title="VTVcab" tvg-logo="https://s72140.cdn.mytvnet.vn/vimages/e9/9e/e5/54/40/01/e9e54-ponsportshd-channel-unkn.png",VTVCab 3 - ON Sports HD
 https://xem.truyenhinh.click/TichHop/OnLive/LIVE/?user=onsports
-#EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/01/04/1680297664931/fb287ae7a7ad_640_360.png", K+CINE
+#EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/01/04/1680297664931/fb287ae7a7ad_640_360.png", K+CINE SD
 http://bentre5.hoangai.vn:8082/dyrectp/mytv/m3u8cc/play1.php?id=228
+#EXTINF:-1 tvg-id="kaction" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/01/03/16/1704275031605/a72d5eab8255_640_360.png", K+ACTION SD
+http://bentre5.hoangai.vn:8082/dyrectp/mytv/m3u8cc/play1.php?id=195
 
 #EXTINF:-1 tvg-id="" group-title="Onplus Live" tvg-logo="https://raw.githubusercontent.com/pk792025/pk050979/refs/heads/main/ON1.jpg", ON Live 1
 http://bentre5.hoangai.vn:12345/192.168.2.41:100/stream?url=https://cdnet-cdn-01.onsports.vn/onplus/ONSPORT1/manifest.mpd&key=30d13ea42031b9ff8271e5dc37d90e10
