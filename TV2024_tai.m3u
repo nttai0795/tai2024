@@ -151,7 +151,7 @@ udp://@225.1.1.157:30120
 udp://@225.1.1.159:30120
 #EXTINF:-1 tvg-id="longan" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/TTV1_TayNinh.png",TTV1 - Long An cũ
 https://live.la34.com.vn/la34/tv-transmux.m3u8
-#EXTINF:0 tvg-id="tayninh" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/0DU4cyg.png",TTV2 - Tây Ninh
+#EXTINF:0 tvg-id="tayninh" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/TTV2_TayNinh.png",TTV2 - Tây Ninh
 udp://@225.1.1.130:30120
 #EXTINF:0 tvg-id="dongnai1" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/DNNRTV1_DongNai.png",ĐNRTV1 HD - Đồng Nai
 udp://@225.1.1.152:30120
@@ -859,5 +859,6 @@ https://xem.hoiquan.Click/NguonOnliveTV/sctvhdpth/ToChaThangVThanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
 https://xem.hoiquan.Click/NguonOnliveTV/sctv4k/ToChaThangVThanh
+
 
 
