@@ -141,7 +141,7 @@ udp://@225.1.1.210:30120
 udp://@225.1.2.182:30120
 #EXTINF:0 tvg-id="angiang" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/ATV2_AnGiang.png",ATV2 HD - An Giang
 udp://@225.1.2.173:30120
-#EXTINF:-1 tvg-id="kiengiang1" group-title="Địa phương (HD)" tvg-logo="https://angiangtv.vn/wp-content/uploads/2025/06/H5.png",ATV3 HD - Kiên Giang cũ
+#EXTINF:-1 tvg-id="kiengiang1" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/nttai0795/tai2024/refs/heads/main/an-giang-tv-3-vn-removebg-preview.png",ATV3 HD - Kiên Giang cũ
 https://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
 #EXTINF:0 tvg-id="cantho" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/THTPCT1_CanTho.png",THTPCT1
 udp://@225.1.1.132:30120
@@ -859,6 +859,7 @@ https://xem.hoiquan.Click/NguonOnliveTV/sctvhdpth/ToChaThangVThanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
 https://xem.hoiquan.Click/NguonOnliveTV/sctv4k/ToChaThangVThanh
+
 
 
 
