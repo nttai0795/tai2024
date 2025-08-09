@@ -185,6 +185,9 @@ udp://@225.1.2.177:30120
 udp://@225.1.1.124:30120
 #EXTINF:0 tvg-id="daknong" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/LTV3_LamDong.png",LTV3 HD - Dak Nông cũ
 https://cloudstreamthdn.tek4tv.vn/live/smil:daknong.smil/playlist.m3u8
+
+#EXTINF:0 tvg-id="hue" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/q5MBibm.png",HUETV - Huế
+udp://@225.1.1.161:30120
 #EXTINF:0 tvg-id="binhphuoc1" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/blOZQPI.png",ĐNRTV1 HD - Bình Phước cũ
 udp://@225.1.2.23:30120
 #EXTINF:0 tvg-id="binhphuoc2" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/tIvmaaX.png",ĐNRTV2 HD - Bình Phước cũ
@@ -278,8 +281,7 @@ udp://@225.1.1.63:30120
 udp://@225.1.1.118:30120
 #EXTINF:0 tvg-id="thanhhoa" group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/NlOwltd.png",TTV - Thanh Hóa
 udp://@225.1.2.184:30120
-#EXTINF:0 tvg-id="hue" group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/q5MBibm.png",HUETV - Huế
-udp://@225.1.1.161:30120
+
 #EXTINF:0 tvg-id="hue" group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/q5MBibm.png",HUETV - Huế
 https://live.huetv.com.vn/TRT-Online/playlist.m3u8
 #EXTINF:0 tvg-id="longan" group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/jBWD3It.png",TTV1 - Long An
@@ -859,6 +861,7 @@ https://xem.hoiquan.Click/NguonOnliveTV/sctvhdpth/ToChaThangVThanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
 https://xem.hoiquan.Click/NguonOnliveTV/sctv4k/ToChaThangVThanh
+
 
 
 
