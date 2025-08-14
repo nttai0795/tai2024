@@ -185,13 +185,8 @@ udp://@225.1.2.177:30120
 udp://@225.1.1.124:30120
 #EXTINF:0 tvg-id="daknong" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/LTV3_LamDong.png",LTV3 HD - Dak Nông cũ
 https://cloudstreamthdn.tek4tv.vn/live/smil:daknong.smil/playlist.m3u8
-
 #EXTINF:0 tvg-id="hue" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/q5MBibm.png",HUETV - Huế
 udp://@225.1.1.161:30120
-#EXTINF:0 tvg-id="binhphuoc1" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/blOZQPI.png",ĐNRTV1 HD - Bình Phước cũ
-udp://@225.1.2.23:30120
-#EXTINF:0 tvg-id="binhphuoc2" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/tIvmaaX.png",ĐNRTV2 HD - Bình Phước cũ
-udp://@225.1.2.38:30120
 #EXTINF:0 tvg-id="quangngai" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/QNgTV_QuangNgai.png",QNgTV - Quảng Ngãi
 udp://@225.1.2.174:30120
 #EXTINF:0 tvg-id="kontum" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/QNgTV_QuangNgai.png",QNgTV - Kon Tum Cũ
@@ -236,8 +231,6 @@ udp://@225.1.1.160:30120
 udp://@225.1.2.181:30120
 #EXTINF:0 tvg-id="quangninh3" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/4hadYbw.png",QTV3 HD - Quảng Ninh
 udp://@225.1.2.180:30120
-#EXTINF:0 tvg-id="bacninh" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/BTV_BacNinh.png",BTV - Bắc Ninh
-udp://@225.1.1.40:30120
 #EXTINF:0 tvg-id="bacgiang" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/05t6W7v.png",BGTV - Bắc Giang
 udp://@225.1.1.164:30120
 #EXTINF:0 tvg-id="hanoi1" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/mwCTDMj.png",H1 HD - Hà Nội
@@ -246,13 +239,10 @@ udp://@225.1.2.186:30120
 udp://@225.1.1.109:30120
 #EXTINF:0 tvg-id="haiphong" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/StFk4PA.png",THP HD - TP. Hải Phòng
 udp://@225.1.1.44:30120
-#EXTINF:0 tvg-id="haiphongplus" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/s3yq8AW.png",THP+ HD - TP. Hải Phòng
-udp://@225.1.1.113:30120
-#EXTINF:0 tvg-id="haiduong" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/QmzXd4R.png",THD - Hải Dương
+#EXTINF:0 tvg-id="haiduong" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/QmzXd4R.png",THP3 - Hải Dương
 udp://@225.1.1.158:30120
 #EXTINF:0 tvg-id="ninhbinh" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/XuYnZWe.png",NTV HD - Ninh Bình
 udp://@225.1.1.63:30120
-
 #EXTINF:0 tvg-id="thaibinh" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/fP7B6A4.png",TBTV HD - Thái Bình
 udp://@225.1.1.99:30120
 #EXTINF:0 tvg-id="nghean" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/5HEfwZz.png",NTV HD - Nghệ An
@@ -267,8 +257,6 @@ udp://@225.1.2.164:30120
 
 
 
-#EXTINF:0 tvg-id="namdinh" group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/qW62XEm.png",NTV - Nam Định
-udp://@225.1.1.120:30120
 #EXTINF:0 tvg-id="quangnam" group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/uWHWxZB.png",QRT HD - Quảng Nam
 udp://@225.1.2.50:30120
 #EXTINF:0 tvg-id="tiengiang" group-title="Địa phương (SD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/THDT_DongThap.png",THĐT2 - Tiền Giang cũ
@@ -281,9 +269,6 @@ udp://@225.1.1.63:30120
 udp://@225.1.1.118:30120
 #EXTINF:0 tvg-id="thanhhoa" group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/NlOwltd.png",TTV - Thanh Hóa
 udp://@225.1.2.184:30120
-
-#EXTINF:0 tvg-id="hue" group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/q5MBibm.png",HUETV - Huế
-https://live.huetv.com.vn/TRT-Online/playlist.m3u8
 #EXTINF:0 tvg-id="longan" group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/jBWD3It.png",TTV1 - Long An
 udp://@225.1.1.162:30120
 
@@ -774,6 +759,7 @@ http://khaitv.giize.com:8080/tvmienphi/getv.php?id=186
 http://khaitv.giize.com:8080/tvmienphi/getv.php?id=177
 #EXTINF:0 group-title="SCTV" tvg-logo="https://i.ibb.co/HHfL7Dq/cocab20.webp",VTVcab 20 On V Family
 http://khaitv.giize.com:8080/tvmienphi/getv.php?id=187
+
 
 
 
