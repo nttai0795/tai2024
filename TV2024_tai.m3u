@@ -123,7 +123,7 @@ udp://@225.1.1.235:30120
 udp://@225.1.2.25:30120
 #EXTINF:0 tvg-id="dongthap" group-title="Địa phương" tvg-logo="https://i.imgur.com/UfOw13y.png",THĐT1 | Đồng Tháp 1 (HD 8Mbps)
 udp://@225.1.1.163:30120
-#EXTINF:0 tvg-id="" group-title="Địa phương" tvg-logo="https://i.imgur.com/WXebESa.png",THĐT2 Miền Tây | Đồng Tháp 2 (HD 8Mbps)
+#EXTINF:0 tvg-id="tiengiang" group-title="Địa phương" tvg-logo="https://i.imgur.com/WXebESa.png",THĐT2 Miền Tây | Đồng Tháp 2 (HD 8Mbps)
 udp://@225.1.1.210:30120
 #EXTINF:0 tvg-id="kiengiang" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/ATV1_AnGiang.png",ATV1 | An Giang 1 (HD 8Mbps)
 udp://@225.1.2.182:30120
@@ -750,6 +750,7 @@ http://khaitv.giize.com:8080/tvmienphi/getv.php?id=160
 http://khaitv.giize.com:8080/tvmienphi/getv.php?id=135
 #EXTINF:0 group-title="SCTV" tvg-logo="",Woman
 http://khaitv.giize.com:8080/tvmienphi/getv.php?id=163
+
 
 
 
