@@ -191,8 +191,6 @@ udp://@225.1.1.119:30120
 udp://@225.1.1.74:30120
 #EXTINF:0 tvg-id="phutho" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/5OZ2hAB.png",PTV HD - Phú Thọ
 udp://@225.1.2.165:30120
-#EXTINF:0 tvg-id="hoabinh" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/cgKnwnX.png",HBTV HD - Hòa Bình
-udp://@225.1.2.168:30120
 #EXTINF:0 tvg-id="laichau" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/we3GCjr.png",LTV HD - Lai Châu
 udp://@225.1.2.36:30120
 #EXTINF:0 tvg-id="tuyenquang" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/6RPgRE7.png",TTV - Tuyên Quang
@@ -776,6 +774,7 @@ http://khaitv.giize.com:8080/tvmienphi/getv.php?id=160
 http://khaitv.giize.com:8080/tvmienphi/getv.php?id=135
 #EXTINF:0 group-title="SCTV" tvg-logo="",Woman
 http://khaitv.giize.com:8080/tvmienphi/getv.php?id=163
+
 
 
 
