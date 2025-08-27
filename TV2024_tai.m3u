@@ -138,7 +138,7 @@ udp://@225.1.1.157:30120
 #EXTINF:-1 tvg-id="soctrang" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/THTPCT3_CanTho.png",THTPCT3
 udp://@225.1.1.159:30120
 #EXTINF:-1 tvg-id="longan" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/TTV1_TayNinh.png",TTV1 - Long An cũ
-https://live.la34.com.vn/la34/tv-transmux.m3u8
+https://cdn.la34.com.vn/live/2851dc2c9af68834814a89e61db0faee561/playlist.m3u8
 #EXTINF:0 tvg-id="tayninh" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/TTV2_TayNinh.png",TTV2 - Tây Ninh
 udp://@225.1.1.130:30120
 #EXTINF:0 tvg-id="dongnai1" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/DNNRTV1_DongNai.png",ĐNRTV1 HD - Đồng Nai
@@ -155,10 +155,6 @@ udp://@225.1.2.189:30120
 udp://@225.1.2.175:30120
 #EXTINF:0 tvg-id="camau" group-title="Địa phương" tvg-logo="https://i.imgur.com/cYqXh3i.png",CTV HD - Cà Mau
 udp://@225.1.1.104:30120
-#EXTINF:0 tvg-id="baclieu" group-title="Địa phương" tvg-logo="https://i.imgur.com/cYqXh3i.png",Bạc Liêu cũ
-udp://@225.1.1.61:30120
-#EXTINF:0 tvg-id="bentre" group-title="Địa phương" tvg-logo="https://i.imgur.com/wYadDFn.png",Bến Tre cũ
-udp://@225.1.1.156:30120
 #EXTINF:0 tvg-id="travinh" group-title="Địa phương" tvg-logo="https://i.imgur.com/wYadDFn.png",Trà Vinh cũ
 udp://@225.1.2.172:30120
 #EXTINF:0 tvg-id="khanhhoa" group-title="Địa phương" tvg-logo="https://i.imgur.com/kPu3rSN.png",KTV HD - Khánh Hòa
@@ -225,8 +221,7 @@ udp://@225.1.1.117:30120
 
 
 
-#EXTINF:0 tvg-id="tiengiang" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/THDT_DongThap.png",THĐT2 - Tiền Giang cũ
-udp://@225.1.2.170:30120
+
 #EXTINF:0 tvg-id="sonla" group-title="Địa phương" tvg-logo="https://i.imgur.com/QZT6GIh.png",STV - Sơn La
 udp://@225.1.1.98:30120
 #EXTINF:0 tvg-id="hungyen" group-title="Địa phương" tvg-logo="https://i.imgur.com/deNnP9h.png",HY - Hưng Yên
@@ -763,6 +758,7 @@ http://khaitv.giize.com:18484/stream/vtvprime/action/master.m3u8?u=admin&p=bd8dc
 
 #https://vng-live-cdn.seenow.vn/livesnv2/VTV1_HD/manifest.mpd
 #https://vng-live-cdn.seenow.vn/livesnv2/VTV2_HD/manifest.mpd
+
 
 
 
