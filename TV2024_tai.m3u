@@ -254,10 +254,10 @@ udp://@225.1.2.52:30120
 udp://@225.1.2.74:30120
 #EXTINF:0 tvg-id="bloomberg" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/rxFZgIK.png",Bloomberg (HD 8Mbps)
 udp://@225.1.2.91:30120
-#EXTINF:0 tvg-id="boomerang" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/rRDAzm4.png",Boomerang (HD 8Mbps)
-udp://@225.1.1.138:30120
 #EXTINF:0 tvg-id="cartoonhd" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/6oXQdBZ.png",Cartoon Network (HD 8Mbps)
 udp://@225.1.2.231:30120
+#EXTINF:0 tvg-id="boomerang" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/C8nDHeY.png",Cartoonito (HD 8Mbps)
+udp://@225.1.1.138:30120
 #EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://i.imgur.com/vFVxJx4.png",Cinema World (HD 8Mbps)
 udp://@225.1.1.142:30120
 #EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://i.imgur.com/NzROY7r.png",Cinemax (HD 8Mbps)
@@ -758,6 +758,7 @@ http://khaitv.giize.com:18484/stream/vtvprime/action/master.m3u8?u=admin&p=bd8dc
 
 #https://vng-live-cdn.seenow.vn/livesnv2/VTV1_HD/manifest.mpd
 #https://vng-live-cdn.seenow.vn/livesnv2/VTV2_HD/manifest.mpd
+
 
 
 
