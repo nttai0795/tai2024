@@ -140,7 +140,7 @@ udp://@225.1.2.177:30120
 #EXTINF:0 tvg-id="binhthuan" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/LTV2_LamDong.png",LTV2 | Lâm Đồng 
 udp://@225.1.1.124:30120
 #EXTINF:0 tvg-id="lamdong" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/LTV3_LamDong.png",LTV3 | Lâm Đồng 
-https://cloudstreamthdn.tek4tv.vn/live/smil:daknong.smil/playlist.m3u8
+https://cloudstreamthdn.tek4tv.vn:443/live/smil:daknong.smil/chunklist_w543121927_b3128000_sleng.m3u8
 #EXTINF:0 tvg-id="haiphong" group-title="Địa phương" tvg-logo="https://i.imgur.com/StFk4PA.png",THP | Hải Phòng 
 udp://@225.1.1.44:30120
 #EXTINF:0 tvg-id="haiduong" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/THP3_HaiPhong.png",THP3 | Hải Phòng 
@@ -733,6 +733,7 @@ http://khaitv.giize.com:18484/stream/vtvprime/k2/master.m3u8?u=admin&p=bd8dc3e43
 http://khaitv.giize.com:18484/stream/vtvprime/action/master.m3u8?u=admin&p=bd8dc3e43a1a157595a8b01fbf44705160edeb0c08842d97d651cd2b37bf6262
 #EXTINF:0 group-title="Kênh TH Thiết yếu" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png",CINE
 http://khaitv.giize.com:18484/stream/vtvprime/cine/master.m3u8?u=admin&p=bd8dc3e43a1a157595a8b01fbf44705160edeb0c08842d97d651cd2b37bf6262
+
 
 
 
