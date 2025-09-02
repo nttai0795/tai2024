@@ -97,6 +97,8 @@ udp://@225.1.1.154:30120
 udp://@225.1.1.235:30120
 #EXTINF:0 tvg-id="vinhlong4hd" group-title="Địa phương" tvg-logo="https://i.imgur.com/xYalJzh.png",THVL4 HD | Vĩnh Long 
 udp://@225.1.2.25:30120
+#EXTINF:0 tvg-id="vinhlong5hd" group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/47/THVL5_logo.png",THVL5 HD | Vĩnh Long 
+udp://@225.1.2.172:30120
 #EXTINF:0 tvg-id="dongthap" group-title="Địa phương" tvg-logo="https://i.imgur.com/UfOw13y.png",THĐT1 | Đồng Tháp 
 udp://@225.1.1.163:30120
 #EXTINF:0 tvg-id="" group-title="Địa phương" tvg-logo="https://i.imgur.com/WXebESa.png",THĐT2 - Miền Tây | Đồng Tháp 
@@ -176,6 +178,12 @@ udp://@225.1.1.164:30120
 udp://@225.1.2.181:30120
 #EXTINF:0 tvg-id="quangninh3" group-title="Địa phương" tvg-logo="https://i.imgur.com/4hadYbw.png",QTV3 HD | Quảng Ninh 
 udp://@225.1.2.180:30120
+#EXTINF:0 tvg-id="hanoi1" group-title="Địa phương" tvg-logo="https://i.imgur.com/mwCTDMj.png",H1 HD | Đài Hà Nội 
+udp://@225.1.2.186:30120
+#EXTINF:0 tvg-id="hanoi2" group-title="Địa phương" tvg-logo="https://i.imgur.com/HyiwlZV.png",H2 HD | Đài Hà Nội 
+udp://@225.1.3.49:30120
+#EXTINF:0 tvg-id="hanoi2" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/H2_HanoiTV_UHD.png",H2 UHD | Đài Hà Nội 
+udp://@225.1.1.109:30120
 #EXTINF:0 tvg-id="ninhbinh" group-title="Địa phương" tvg-logo="https://i.imgur.com/XuYnZWe.png",NBTV HD | Ninh Bình 
 udp://@225.1.2.185:30120
 #EXTINF:0 tvg-id="nghean" group-title="Địa phương" tvg-logo="https://i.imgur.com/5HEfwZz.png",NTV HD | Nghệ An 
@@ -197,15 +205,8 @@ udp://@225.1.2.184:30120
 #EXTINF:0 tvg-id="quangngai" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/QNgTV_QuangNgai.png",QNgTV | Quảng Ngãi 
 udp://@225.1.1.36:30120
 #EXTINF:0 tvg-id="vinhlong2hd" group-title="Địa phương" tvg-logo="https://i.imgur.com/wYadDFn.png",THVL2 HD | Vĩnh Long 
-udp://@225.1.2.172:30120
-#EXTINF:0 tvg-id="vinhlong2hd" group-title="Địa phương" tvg-logo="https://i.imgur.com/wYadDFn.png",THVL2 HD | Vĩnh Long 
 udp://@225.1.1.156:30120
-#EXTINF:0 tvg-id="hanoi1" group-title="Địa phương" tvg-logo="https://i.imgur.com/mwCTDMj.png",H1 HD | Đài Hà Nội 
-udp://@225.1.2.186:30120
-#EXTINF:0 tvg-id="hanoi2" group-title="Địa phương" tvg-logo="https://i.imgur.com/HyiwlZV.png",H2 HD | Đài Hà Nội 
-udp://@225.1.3.49:30120
-#EXTINF:0 tvg-id="hanoi2" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/H2_HanoiTV_UHD.png",H2 UHD | Đài Hà Nội 
-udp://@225.1.1.109:30120
+
 
 
 
@@ -766,6 +767,7 @@ http://khaitv.giize.com:18484/stream/vtvprime/k2/master.m3u8?u=admin&p=bd8dc3e43
 http://khaitv.giize.com:18484/stream/vtvprime/action/master.m3u8?u=admin&p=bd8dc3e43a1a157595a8b01fbf44705160edeb0c08842d97d651cd2b37bf6262
 #EXTINF:0 group-title="Kênh TH Thiết yếu" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png",CINE
 http://khaitv.giize.com:18484/stream/vtvprime/cine/master.m3u8?u=admin&p=bd8dc3e43a1a157595a8b01fbf44705160edeb0c08842d97d651cd2b37bf6262
+
 
 
 
