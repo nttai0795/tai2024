@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
-#EXTM3U url-tvg="https://vnepg.site/epg.xml.gz"
+
 
 #-------------------VTV-------------------#
 #EXTINF:0 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1
@@ -768,6 +768,7 @@ http://khaitv.giize.com:18484/stream/vtvprime/k2/master.m3u8?u=admin&p=bd8dc3e43
 http://khaitv.giize.com:18484/stream/vtvprime/action/master.m3u8?u=admin&p=bd8dc3e43a1a157595a8b01fbf44705160edeb0c08842d97d651cd2b37bf6262
 #EXTINF:0 group-title="Kênh TH Thiết yếu" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png",CINE
 http://khaitv.giize.com:18484/stream/vtvprime/cine/master.m3u8?u=admin&p=bd8dc3e43a1a157595a8b01fbf44705160edeb0c08842d97d651cd2b37bf6262
+
 
 
 
