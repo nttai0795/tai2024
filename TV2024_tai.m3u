@@ -120,11 +120,11 @@ udp://@225.1.1.104:30120
 udp://@225.1.1.152:30120
 #EXTINF:0 tvg-id="dongnai2" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/DNNRTV2_DongNai.png",ĐNNRTV2 HD | Đồng Nai 
 udp://@225.1.1.151:30120
-#EXTINF:0 tvg-id="cantho" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/CanTho1.png",THTPCT1 | Thành phố Cần Thơ 
+#EXTINF:0 tvg-id="cantho1" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/CanTho1.png",THTPCT1 | Thành phố Cần Thơ 
 udp://@225.1.1.132:30120
-#EXTINF:0 tvg-id="haugiang" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/CanTho2.png",THTPCT2 | Thành phố Cần Thơ 
+#EXTINF:0 tvg-id="cantho2" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/CanTho2.png",THTPCT2 | Thành phố Cần Thơ 
 udp://@225.1.1.157:30120
-#EXTINF:0 tvg-id="soctrang" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/CanTho3.png",THTPCT3 | Thành phố Cần Thơ 
+#EXTINF:0 tvg-id="cantho3" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/CanTho3.png",THTPCT3 | Thành phố Cần Thơ 
 udp://@225.1.1.159:30120
 #EXTINF:0 tvg-id="tayninh1" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/TTV1_TayNinh.png",TTV1 | Tây Ninh
 https://xem.hoiquan.Click/CoBan/long-an/TuyetDoiKhongKinhDoanh.m3u8
@@ -904,6 +904,7 @@ http://bentre5.hoangai.vn:8082/dyrectp/mytv/m3u8cc2303/play2.php?id=829
 http://khaitv.giize.com:8080/sctv/sctv.php?id=sctvpth
 #EXTINF:-1 tvg-id="sctvhdpth" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/SCTVPTH.jpg", SCTV HD Phim Tổng Hợp sv2
 http://bentre5.hoangai.vn:8082/dyrectp/mytv/m3u8cc2303/play2.php?id=766
+
 
 
 
