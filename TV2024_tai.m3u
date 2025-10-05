@@ -1448,3 +1448,193 @@ https://xem.hoiquan.Click/CoBan/tv360.Mekong/TuyetDoiKhongKinhDoanh.m3u8
 https://xem.hoiquan.Click/CoBan/tv360.PhimAuMy/TuyetDoiKhongKinhDoanh.m3u8
 
 
+
+#EXTINF:0 group-title="🔴|GIẢI QUỐC GIA Ý + ĐỨC" tvg-logo="https://imgvlive.vtvcab.vn/720X405/5145995d-794d-4329-a44b-d8caffdceb40.jpg",GIẢI Ý + ĐỨC
+http://bentre5.hoangai.vn:12346/192.168.2.41:100/stream?url=https://cdnet-cdn-01.onsports.vn/onplus/BONGDA_HD/manifest.mpd&key=30d13ea42031b9ff8271e5dc37d90e10&token=aismile
+#EXTINF:0 group-title="🔴|GIẢI QUỐC GIA Ý + ĐỨC" tvg-logo="https://imgvlive.vtvcab.vn/720X405/60237478-0dc1-4480-a050-b2a84e4b9b69.jpg",GIẢI Ý + ĐỨC
+http://bentre5.hoangai.vn:12346/192.168.2.41:100/stream?url=https://cdnet-cdn-01.onsports.vn/onplus/THETHAO_HD/manifest.mpd&key=30d13ea42031b9ff8271e5dc37d90e10&token=aismile
+#EXTINF:0 group-title="🔴|GIẢI QUỐC GIA Ý + ĐỨC" tvg-logo="https://imgvlive.vtvcab.vn/720X405/f53c0d1b-0268-4d1e-b150-7d797354b925.jpg",GIẢI Ý + ĐỨC
+http://bentre5.hoangai.vn:12346/192.168.2.41:100/stream?url=https://cdnet-cdn-01.onsports.vn/onplus/THETHAO_TINTUC_HD/manifest.mpd&key=30d13ea42031b9ff8271e5dc37d90e10&token=aismile
+#EXTINF:0 group-title="🔴|GIẢI QUỐC GIA Ý + ĐỨC" tvg-logo="https://i.imgur.com/UNxM1Hs.jpg",GIẢI Ý + ĐỨC
+http://bentre5.hoangai.vn:12346/192.168.2.41:100/stream?url=https://cdnet-cdn-01.onsports.vn/onplus/HAY_TV/manifest.mpd&key=30d13ea42031b9ff8271e5dc37d90e10&token=aismile
+
+
+
+#EXTINF:0 group-title="🔴|GIẢI QUỐC GIA TÂY BAN NHA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/SCTV15.jpg",GIẢI TÂY BAN NHA
+http://bentre5.hoangai.vn:12346/192.168.2.41:100/stream?url=https://cdnet-cdn-01.onsports.vn/onplus/SCTV15HD/manifest.mpd&key=30d13ea42031b9ff8271e5dc37d90e10&token=aismile
+#EXTINF:0 group-title="🔴|GIẢI QUỐC GIA TÂY BAN NHA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/SCTV17.jpg",GIẢI TÂY BAN NHA
+http://bentre5.hoangai.vn:12346/192.168.2.41:100/stream?url=https://cdnet-cdn-01.onsports.vn/onplus/SCTV17/manifest.mpd&key=30d13ea42031b9ff8271e5dc37d90e10&token=aismile
+#EXTINF:0 group-title="🔴|GIẢI QUỐC GIA TÂY BAN NHA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/SCTV22.jpg",GIẢI TÂY BAN NHA
+http://bentre5.hoangai.vn:12346/192.168.2.41:100/stream?url=https://cdnet-cdn-01.onsports.vn/onplus/SCTV17/manifest.mpd&key=30d13ea42031b9ff8271e5dc37d90e10&token=aismile
+
+#EXTINF:-1 tvg-id="sctv1hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/SCTV1HD.jpg", SCTV1 HD
+http://bentre5.hoangai.vn:8082/dyrectp/mytv/m3u8cc2303/play2.php?id=769
+#EXTINF:-1 tvg-id="sctv1hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/SCTV1HD.jpg", SCTV1 HD sv2
+http://khaitv.giize.com:1979/tvmienphi/getsctv.php?id=sctv1
+#EXTINF:-1 tvg-id="sctv2hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/SCTV2TODAYTV.jpg", SCTV2 HD - TODAY TV
+http://khaitv.giize.com:1979/tvmienphi/getsctv.php?id=sctv2
+#EXTINF:-1 tvg-id="sctv2hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/SCTV2TODAYTV.jpg", SCTV2 HD - TODAY TV sv2
+http://bentre5.hoangai.vn:8082/dyrectp/mytv/m3u8cc2303/play2.php?id=772
+#EXTINF:-1 tvg-id="sctv3hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/SCTV3.jpg", SCTV3 HD
+http://khaitv.giize.com:1979/tvmienphi/getsctv.php?id=sctv3
+#EXTINF:-1 tvg-id="sctv3hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/SCTV3.jpg", SCTV3 HD sv2
+http://bentre5.hoangai.vn:8082/dyrectp/mytv/m3u8cc2303/play2.php?id=775
+#EXTINF:-1 tvg-id="sctv4hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/SCTV4.jpg", SCTV4 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://sctvonline.vn/
+http://khaitv.giize.com:8080/tvmienphi/getsctv.php?id=sctv4
+#EXTINF:-1 tvg-id="sctv4hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/SCTV4.jpg", SCTV4 HD sv2
+http://bentre5.hoangai.vn:8082/dyrectp/mytv/m3u8cc2303/play2.php?id=778
+#EXTINF:-1 group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/SCTV5.jpg", SCTV5 HD - SCJ
+http://khaitv.giize.com:8080/tvmienphi/gett.php?id=sctv5
+#EXTINF:-1 tvg-id="sctv6hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/SCTV6.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/film360_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", SCTV6 HD
+https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="sctv6hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/SCTV6.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/film360_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", SCTV6 HD sv2
+http://bentre5.hoangai.vn:502/stream?url=http://192.168.2.41:8082/dyrectp/mytv/m3u8/play2.php?id=781&nguyenhoangai=admin
+#EXTINF:-1 tvg-id="sctv7hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SCTV7.jpg", SCTV7 HD
+http://bentre5.hoangai.vn:8082/dyrectp/mytv/m3u8cc/play.php?id=784
+#EXTINF:-1 tvg-id="sctv7hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SCTV7.jpg", SCTV7 HD sv2
+http://khaitv.giize.com:8080/tvmienphi/getsctv.php?id=sctv7
+#EXTINF:-1 tvg-id="sctv8hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/SCTV8.jpg", SCTV8 HD
+http://khaitv.giize.com:8080/tvmienphi/getsctv.php?id=sctv8
+#EXTINF:-1 tvg-id="sctv9hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/SCTV9.jpg", SCTV9 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://sctvonline.vn/
+http://bentre5.hoangai.vn:8082/dyrectp/mytv/m3u8cc2303/play2.php?id=790
+#EXTINF:-1 tvg-id="sctv9hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/SCTV9.jpg", SCTV9 HD SV2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 
+http://bentre5.hoangai.vn:8082/dyrectp/mytv/m3u8cc2303/play2.php?id=790
+#EXTINF:-1 tvg-id="sctv9hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/SCTV9.jpg", SCTV9 HD SV3
+http://bentre5.hoangai.vn:12346/192.168.2.41:100/stream?url=https://cdnet-cdn-01.onsports.vn/onplus/SCTV9/manifest.mpd&key=30d13ea42031b9ff8271e5dc37d90e10&token=aismile
+#EXTINF:-1 group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/SCTV10.jpg", SCTV10
+http://khaitv.giize.com:8080/tvmienphi/getsctv.php?id=sctv10
+#EXTINF:-1 tvg-id="sctv11hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/SCTV11.jpg", SCTV11 HD
+http://khaitv.giize.com:8080/tvmienphi/getsctv.php?id=sctv11
+#EXTINF:-1 tvg-id="sctv11hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/SCTV11.jpg", SCTV11 HD sv2
+http://bentre5.hoangai.vn:8082/dyrectp/mytv/m3u8cc2303/play2.php?id=793
+#EXTINF:-1 tvg-id="sctv12hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/SCTV12.jpg", SCTV12 HD
+http://bentre5.hoangai.vn:8082/dyrectp/mytv/m3u8cc/play.php?id=796
+#EXTINF:-1 tvg-id="sctv12hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/SCTV12.jpg", SCTV12 HD sv2
+http://khaitv.giize.com:8080/tvmienphi/getsctv.php?id=sctv12
+#EXTINF:-1 tvg-id="sctv13hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/SCTV13.jpg", SCTV13 HD
+http://khaitv.giize.com:8080/tvmienphi/getsctv.php?id=sctv13
+#EXTINF:-1 tvg-id="sctv13hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/SCTV13.jpg", SCTV13 HD sv2
+http://bentre5.hoangai.vn:8082/dyrectp/mytv/m3u8cc2303/play2.php?id=799
+#EXTINF:-1 tvg-id="sctv14hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/SCTV14.jpg", SCTV14 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 
+http://khaitv.giize.com:8080/tvmienphi/getsctv.php?id=sctv14
+#EXTINF:-1 tvg-id="sctv14hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/SCTV14.jpg", SCTV14 HD sv2
+http://bentre5.hoangai.vn:8082/dyrectp/mytv/m3u8cc2303/play2.php?id=802
+#EXTINF:-1 tvg-id="sctv15hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/SCTV15.jpg", SCTV15 HD
+http://bentre5.hoangai.vn:12346/192.168.2.41:100/stream?url=https://cdnet-cdn-01.onsports.vn/onplus/SCTV15HD/manifest.mpd&key=30d13ea42031b9ff8271e5dc37d90e10&token=aismile
+#EXTINF:-1 tvg-id="sctv15hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/SCTV15.jpg", SCTV15 HD sv2
+http://bentre5.hoangai.vn:8082/dyrectp/mytv/m3u8cc2303/play2.php?id=823
+#EXTINF:-1 tvg-id="sctv16hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/SCTV16.jpg", SCTV16 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 
+http://bentre5.hoangai.vn:502/stream?url=http://192.168.2.41:8082/dyrectp/mytv/m3u8/play2.php?id=805&nguyenhoangai=admin
+#EXTINF:-1 tvg-id="sctv16hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/SCTV16.jpg", SCTV16 HD sv2
+http://bentre5.hoangai.vn:8082/dyrectp/mytv/m3u8cc2303/play2php?id=805
+#EXTINF:-1 tvg-id="sctv17hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/SCTV17.jpg", SCTV17 HD
+http://bentre5.hoangai.vn:12346/192.168.2.41:100/stream?url=https://cdnet-cdn-01.onsports.vn/onplus/SCTV17/manifest.mpd&key=30d13ea42031b9ff8271e5dc37d90e10&token=aismile
+#EXTINF:-1 tvg-id="sctv17hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/SCTV17.jpg", SCTV17 HD sv2
+http://bentre5.hoangai.vn:8082/dyrectp/mytv/m3u8cc2303/play2.php?id=826
+#EXTINF:-1 tvg-id="sctv18hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/SCTV18.jpg", SCTV18 HD
+http://khaitv.giize.com:8080/tvmienphi/getsctv.php?id=sctv18
+#EXTINF:-1 tvg-id="sctv18hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/SCTV18.jpg", SCTV18 HD sv2
+http://bentre5.hoangai.vn:8082/dyrectp/mytv/m3u8cc/play.php?id=808
+#EXTINF:-1 tvg-id="sctv19hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/SCTV19.jpg", SCTV19 HD
+http://bentre5.hoangai.vn:8082/dyrectp/mytv/m3u8cc2303/play2.php?id=811
+#EXTINF:-1 tvg-id="sctv19hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/SCTV19.jpg", SCTV19 HD sv2
+http://bentre5.hoangai.vn:8082/dyrectp/mytv/m3u8cc2303/play2.php?id=811
+#EXTINF:-1 tvg-id="sctv20hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/SCTV20.jpg", SCTV20 HD
+http://bentre5.hoangai.vn:8082/dyrectp/mytv/m3u8cc2303/play2.php?id=814
+#EXTINF:-1 tvg-id="sctv20hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/SCTV20.jpg", SCTV20 HD sv2
+http://bentre5.hoangai.vn:8082/dyrectp/mytv/m3u8cc2303/play2.php?id=814
+#EXTINF:-1 tvg-id="sctv21hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/SCTV21.jpg", SCTV21 HD
+http://bentre5.hoangai.vn:8082/dyrectp/mytv/m3u8cc2303/play2.php?id=817
+#EXTINF:-1 tvg-id="sctv21hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/SCTV21.jpg", SCTV21 HD sv2
+http://bentre5.hoangai.vn:8082/dyrectp/mytv/m3u8cc2303/play2.php?id=817
+#EXTINF:-1 tvg-id="sctv22hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/SCTV22.jpg", SCTV22 HD
+http://bentre5.hoangai.vn:8082/dyrectp/mytv/m3u8cc/play.php?id=829
+#EXTINF:-1 tvg-id="sctv22hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/SCTV22.jpg", SCTV22 HD sv2
+http://bentre5.hoangai.vn:8082/dyrectp/mytv/m3u8cc2303/play2.php?id=829
+#EXTINF:-1 tvg-id="sctvhdpth" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/SCTVPTH.jpg", SCTV HD Phim Tổng Hợp
+http://khaitv.giize.com:8080/sctv/sctv.php?id=sctvpth
+#EXTINF:-1 tvg-id="sctvhdpth" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/SCTVPTH.jpg", SCTV HD Phim Tổng Hợp sv2
+http://bentre5.hoangai.vn:8082/dyrectp/mytv/m3u8cc2303/play2.php?id=766
+#EXTINF:0 group-title="SCTV" tvg-logo="https://i.ytimg.com/vi/fyT_xa-g-Pk/hq720.jpg",VTVcab 1 Vie Giải Trí
+http://khaitv.giize.com:8080/tvmienphi/getv.php?id=180
+#EXTINF:0 group-title="SCTV" tvg-logo="https://i.ytimg.com/vi/rwhsuTvSXxo/maxresdefault.jpg",VTVcab 10 On Cine
+http://khaitv.giize.com:8080/tvmienphi/getv.php?id=176
+#EXTINF:0 group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/ONSTYLE.jpg",VTVcab 12 StyleTV
+http://khaitv.giize.com:8080/tvmienphi/getv.php?id=184
+#EXTINF:0 group-title="SCTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/07/20/10/1689822524259/0f3a4d1ebfaf_640_360.png",VTVcab 15 On Music
+http://khaitv.giize.com:8080/tvmienphi/getv.php?id=185
+#EXTINF:0 group-title="SCTV" tvg-logo="https://i.ibb.co/k1ccQNr/vcab17.webp",VTVcab 17 On Trending TV
+http://khaitv.giize.com:8080/tvmienphi/getv.php?id=186
+#EXTINF:0 group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/ONECHANNEL.jpg",VTVcab 19 On Film TV
+http://khaitv.giize.com:8080/tvmienphi/getv.php?id=177
+#EXTINF:0 group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ONPHIMVIET.jpg/1600px-ONPHIMVIET.jpg",VTVcab 2 On Phim Việt
+http://khaitv.giize.com:8080/tvmienphi/getv.php?id=175
+#EXTINF:0 group-title="SCTV" tvg-logo="https://i.ibb.co/HHfL7Dq/cocab20.webp",VTVcab 20 On V Family
+http://khaitv.giize.com:8080/tvmienphi/getv.php?id=187
+#EXTINF:0 group-title="SCTV" tvg-logo="https://i.ytimg.com/vi/NZablQM-L9g/maxresdefault.jpg",VTVcab 4 On Movies
+http://khaitv.giize.com:8080/tvmienphi/getv.php?id=181
+#EXTINF:0 group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/ONECHANNEL.jpg",VTVcab 5 On E Channel
+http://khaitv.giize.com:8080/tvmienphi/getv.php?id=182
+#EXTINF:0 group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/ONO2TV.jpg",VTVcab 7 ON O2TV
+http://khaitv.giize.com:8080/tvmienphi/getv.php?id=136
+#EXTINF:0 group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/ONBIBI.jpg",VTVcab 8 On Bi Bi
+http://khaitv.giize.com:8080/tvmienphi/getv.php?id=178
+#EXTINF:0 group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/ONINFO.jpg",VTVcab 9 On InfoTV
+http://khaitv.giize.com:8080/tvmienphi/getv.php?id=189
+#EXTINF:0 group-title="SCTV" tvg-logo="",Box Movie 1
+http://khaitv.giize.com:8080/tvmienphi/getv.php?id=159
+#EXTINF:0 group-title="SCTV" tvg-logo="",Box Music
+http://khaitv.giize.com:8080/tvmienphi/getv.php?id=289
+#EXTINF:0 group-title="SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/219.png",CNA
+http://khaitv.giize.com:8080/tvmienphi/getv.php?id=112
+#EXTINF:0 group-title="SCTV" tvg-logo="",DR Fit
+http://khaitv.giize.com:8080/tvmienphi/getv.php?id=162
+#EXTINF:0 group-title="SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/221.png",DW
+http://khaitv.giize.com:8080/tvmienphi/getv.php?id=109
+#EXTINF:0 group-title="SCTV" tvg-logo="",Happy Kids
+http://khaitv.giize.com:8080/tvmienphi/getv.php?id=212
+#EXTINF:0 group-title="SCTV" tvg-logo="",Hollywood
+http://khaitv.giize.com:8080/tvmienphi/getv.php?id=160
+#EXTINF:0 group-title="SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/223.png",KBS World
+http://khaitv.giize.com:8080/tvmienphi/getv.php?id=213
+#EXTINF:0 group-title="SCTV" tvg-logo="",Planet Earth
+http://khaitv.giize.com:8080/tvmienphi/getv.php?id=135
+#EXTINF:0 group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/SCTV3.jpg",SCTV 4
+http://bentre5.hoangai.vn:8082/dyrectp/mytv/m3u8cc/play.php?id=778
+#EXTINF:0 group-title="SCTV" tvg-logo="https://i.ytimg.com/vi/dGohEWXz7Sk/maxresdefault.jpg",VTV 1
+http://bentre5.hoangai.vn:12345/192.168.2.41:100/stream?url=https://zenlive.onsports.vn/onplus/VTV1_HD/manifest.mpd&key=30d13ea42031b9ff8271e5dc37d90e10
+#EXTINF:0 group-title="SCTV" tvg-logo="",Woman
+http://khaitv.giize.com:8080/tvmienphi/getv.php?id=163
+#EXTINF:0 group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/SCTV14.jpg",SCTV 14
+http://bentre5.hoangai.vn:8082/dyrectp/mytv/m3u8cc/play.php?id=802
+#EXTINF:0 group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/ANTVHD.jpg",Công an nhân dân
+http://khaitv.giize.com:8080/tvmienphi/getv.php?id=20
+#EXTINF:0 group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/HTV7HD.jpg",HTV 7
+http://bentre5.hoangai.vn:8082/dyrectp/mytv/m3u8cc/play.php?id=128
+#EXTINF:0 group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/SCTV1HD.jpg",SCTV 1
+http://bentre5.hoangai.vn:8082/dyrectp/mytv/m3u8cc/play.php?id=769
+#EXTINF:0 group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/SCTV2.jpg",SCTV 2
+http://bentre5.hoangai.vn:8082/dyrectp/mytv/m3u8cc/play.php?id=772
+#EXTINF:0 group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/SCTV3.jpg",SCTV 3
+http://bentre5.hoangai.vn:8082/dyrectp/mytv/m3u8cc/play.php?id=775
+#EXTINF:0 group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/SCTV5.jpg",SCTV 5
+http://khaitv.giize.com:8080/tvmienphi/gett.php?id=sctv5
+#EXTINF:0 group-title="SCTV" tvg-logo="https://i.ytimg.com/vi/lak883WKa3s/hq720.jpg",VTV 5
+http://khaitv.giize.com:8080/tvmienphi/getv.php?id=110
+#EXTINF:0 group-title="SCTV" tvg-logo="https://i.ytimg.com/vi/LkeoKNW8YlU/hq720.jpg",VTV 5 Tây Nam Bộ
+http://khaitv.giize.com:8080/tvmienphi/getv.php?id=157
+#EXTINF:0 group-title="SCTV" tvg-logo="https://i.ytimg.com/vi/u3oLNrB_WDM/maxresdefault.jpg",VTV 6 VTV Cần Thơ
+http://khaitv.giize.com:8080/tvmienphi/getv.php?id=98
+#EXTINF:0 group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/SCTV15.jpg",SCTV 15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://sctvonline.vn/
+http://bentre5.hoangai.vn:8082/dyrectp/mytv/m3u8cc/play2.php?id=823
+#EXTINF:0 group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/SCTV15.jpg",SCTV 15 ONPLUS
+http://bentre5.hoangai.vn:12346/192.168.2.41:100/stream?url=https://cdnet-cdn-01.onsports.vn/onplus/SCTV15HD/manifest.mpd&key=30d13ea42031b9ff8271e5dc37d90e10
