@@ -158,8 +158,7 @@ udp://@225.1.1.157:30120
 #EXTINF:0 tvg-id="cantho3" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/CanTho3.png",THTPCT3 | Thành phố Cần Thơ 
 udp://@225.1.1.159:30120
 #EXTINF:0 tvg-id="tayninh1" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/TTV1_TayNinh.png",TTV1 | Tây Ninh
-https://xem.hoiquan.Click/CoBan/long-an/TuyetDoiKhongKinhDoanh.m3u8
-#udp://@225.1.1.162:30120
+udp://@225.1.1.162:30120
 #EXTINF:0 tvg-id="tayninh2" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/TTV2_TayNinh.png",TTV2 | Tây Ninh 
 udp://@225.1.1.130:30120
 #EXTINF:0 tvg-id="anvienhd" group-title="Địa phương" tvg-logo="https://i.imgur.com/jeunb3Y.png",BTV9 B Channel 
@@ -454,5 +453,6 @@ https://toiyeuvietnam.dpdns.org/CoBan/vtvcab-9-infotv-hd/TuyetDoiKhongKinhDoanh.
 https://toiyeuvietnam.dpdns.org/CoBan/vtvcab13-on-homeshopping/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="o2tv" group-title="VTV Cab" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/o2tv/KenhCoBan",O2TV
 https://toiyeuvietnam.dpdns.org/CoBan/o2tv/TuyetDoiKhongKinhDoanh.m3u8
+
 
 
