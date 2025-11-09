@@ -497,6 +497,7 @@ https://liveh12.seenow.vn/hls/SCTVPHIM/03.m3u8
 
 
 
-
-
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ENTRETENIMIENTO", NEXT
+https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
+#EXTINF:-1,HBO XTREME
+http://200.92.227.238:8000/play/a0mu/index.m3u8
