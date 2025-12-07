@@ -174,7 +174,7 @@ https://liveh34.vtvprime.vn/hls/TAYNINHTV/03.m3u8
 #EXTINF:0 tvg-id="vungtau" group-title="Địa phương" tvg-logo="https://i.imgur.com/KX2RMXR.png",BRT HD | Bà Rịa Vũng Tàu 
 https://live.fptplay53.net/epzsd1/bariavungtau_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="hanoi1" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/Y8bq8Fp/HANOI1-TV-BEARTV.png", HN1 | Hà Nội 1
-https://cecex9g5cpliv.vcdn.cloud/capture/smil:HN1.smil/chunklist_w1295074949_b3128000_slen.m3u8
+https://liveh34.vtvprime.vn/hls/HANOI1TV/03.m3u8
 #EXTINF:-1 tvg-id="hanoi2" group-title="ĐỊA PHƯƠNG" tvg-logo="https://cloudcdnvod.tek4tv.vn/files/2025/6/12/64LQPIOD71F6.png", HN2 | Hà Nội 2
 https://cecex9g5cpliv.vcdn.cloud/events/HN2/chunklist_w344717809.m3u8
 #EXTINF:-1 tvg-id="tuyenquang" group-title="ĐỊA PHƯƠNG" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/36/TTV_Tuyen_Quang_logo_2014.png/revision/latest?cb=20230315043525&path-prefix=vi", TTV | Tuyên Quang
