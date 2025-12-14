@@ -40,10 +40,12 @@ https://liveh12.seenow.vn/hls/VTV8_HD/04.m3u8
 https://live.fptplay53.net/fnxhd1/vtv9_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="vtv9hd" group-title=" VTV" tvg-logo="https://i.imgur.com/Ex1VkGQ.png",VTV9 sv2
 https://liveh12.seenow.vn/hls/VTV9_HD/04.m3u8
+#EXTINF:0 tvg-id="vtv9hd" group-title=" VTV" tvg-logo="https://i.imgur.com/Ex1VkGQ.png",VTV9 sv3
+https://vtv9-autom3u.quanlehong539.workers.dev
 #EXTINF:0 tvg-id="vtv5hdtnb" group-title=" VTV" tvg-logo="https://i.imgur.com/mIUWkDx.png",VTV5 Tây Nam Bộ
 https://live.fptplay53.net/fnxhd1/vtv5tnb_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="vtv5hdtnb" group-title=" VTV" tvg-logo="https://i.imgur.com/mIUWkDx.png",VTV5 Tây Nam Bộ sv2
-#a
+#https://vtv9-autom3u.quanlehong539.workers.dev
 #EXTINF:0 tvg-id="vtv5hdtn" group-title=" VTV" tvg-logo="https://i.imgur.com/R8c2swd.png",VTV5 Tây Nguyên
 https://live.fptplay53.net/fnxhd1/vtv5taynguyen_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="vietnamtoday" group-title=" VTV" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV_VietnamToday.png",VietNam Today
