@@ -172,12 +172,16 @@ https://cloudstreamthdn.tek4tv.vn:443/live/smil:daknong.smil/chunklist_w54312192
 #EXTINF:-1 tvg-id="lamdong3" group-title="ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/LTV3_LamDong.png",LTV3 | TH Lâm Đồng sv3
 https://freem3u.xyz/api/live/play.m3u8?vid=50
 #EXTINF:-1 tvg-id="cantho1" group-title="ĐỊA PHƯƠNG" tvg-logo="https://s12982.cdn.mytvnet.vn/vimages/88/87/79/93/30/09/88793-pcnthtv1-channel-unkn.png",CẦN THƠ 1 | TH Cần Thơ
+https://live.fptplay53.net/epzsd1/cantho_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="cantho1" group-title="ĐỊA PHƯƠNG" tvg-logo="https://s12982.cdn.mytvnet.vn/vimages/88/87/79/93/30/09/88793-pcnthtv1-channel-unkn.png",CẦN THƠ 1 | TH Cần Thơ sv2
 https://live.canthotv.vn/live/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="cantho2" group-title="ĐỊA PHƯƠNG" tvg-logo="https://s12982.cdn.mytvnet.vn/vimages/12/23/3e/e2/20/05/123e2-pcnthtv2-channel-unkn.png",CẦN THƠ 2 | TH Cần Thơ
 https://live.fptplay53.net/epzsd1/cantho02_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="cantho2" group-title="ĐỊA PHƯƠNG" tvg-logo="https://s12982.cdn.mytvnet.vn/vimages/12/23/3e/e2/20/05/123e2-pcnthtv2-channel-unkn.png",CẦN THƠ 2 | TH Cần Thơ sv2
 https://megasystems-6c680321cd.gw-dthcdn.com/haugiangtv/haugiangtv.m3u8
-#EXTINF:-1 tvg-id="cantho3" group-title="ĐỊA PHƯƠNG" tvg-logo=	https://s12982.cdn.mytvnet.vn/vimages/1f/f2/2a/af/f0/02/1f2af-pcnthtv3-channel-unkn.png",CẦN THƠ 3 | TH Cần Thơ
+#EXTINF:-1 tvg-id="cantho3" group-title="ĐỊA PHƯƠNG" tvg-logo="https://s12982.cdn.mytvnet.vn/vimages/1f/f2/2a/af/f0/02/1f2af-pcnthtv3-channel-unkn.png",CẦN THƠ 3 | TH Cần Thơ
+https://live.fptplay53.net/epzsd1/cantho03_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="cantho3" group-title="ĐỊA PHƯƠNG" tvg-logo="https://s12982.cdn.mytvnet.vn/vimages/1f/f2/2a/af/f0/02/1f2af-pcnthtv3-channel-unkn.png",CẦN THƠ 3 | TH Cần Thơ sv3
 https://live.canthotv.vn/live/cs3/playlist.m3u8
 #EXTINF:-3 tvg-id="binhduong1" tvg-logo="https://i.imgur.com/Soe6MC8.png" group-title="Kênh Địa Phương", HTV1HD | BÌNH DƯƠNG 1
 https://live.fptplay53.net/epzhd2/btv1_hls.smil/chunklist_b2500000.m3u8
