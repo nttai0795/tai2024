@@ -23,7 +23,7 @@ https://live.fptplay53.net/epzhd1/vtv5hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="vtv5hd" group-title=" VTV" tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5 sv2
 https://liveh12.vtvprime.vn:443/hls/VTV5_HD/04.m3u8
 #EXTINF:0 tvg-id="vtvcantho" group-title=" VTV" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV Cần Thơ
-https://live.fptplay53.net/fnxhd1/vtvcantho_vhls.smil/chunklist_b5000000.m3u8
+https://live.fptplay53.net/fnxch2/vtvcantho_abr.smil/chunklist_b4200000.m3u8
 #EXTINF:0 tvg-id="vtvcantho" group-title=" VTV" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV Cần Thơ sv2
 https://liveh12.vtvprime.vn:443/hls/VTVCANTHO_HD/04.m3u8
 #EXTINF:0 tvg-id="vtv7hd" group-title=" VTV" tvg-logo="https://i.imgur.com/AgamSNe.png",VTV7
