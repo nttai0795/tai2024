@@ -6,8 +6,6 @@
 https://live.fptplay53.net:443/fnxch2/vtv1hd_abr.smil/chunklist_b4200000.m3u8
 #EXTINF:0 tvg-id="vtv1hd" group-title=" VTV" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1 sv2
 https://liveh12.vtvprime.vn:443/hls/VTV1_HD/04.m3u8
-#EXTINF:0 tvg-id="vtv1hd" group-title=" VTV" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1 sv3
-https://freem3u.xyz/api/live/play.m3u8?vid=2
 #EXTINF:0 tvg-id="vtv2hd" group-title=" VTV" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2
 https://live.fptplay53.net/fnxch2/vtv2hd_abr.smil/chunklist_b4200000.m3u8
 #EXTINF:0 tvg-id="vtv2hd" group-title=" VTV" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2 sv2
@@ -25,7 +23,7 @@ https://live.fptplay53.net/epzhd1/vtv5hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="vtv5hd" group-title=" VTV" tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5 sv2
 https://liveh12.vtvprime.vn:443/hls/VTV5_HD/04.m3u8
 #EXTINF:0 tvg-id="vtvcantho" group-title=" VTV" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV Cần Thơ
-https://live.fptplay53.net/fnxhd1/vtvcantho_vhls.smil/chunklist_b5000000.m3u8
+https://live.fptplay53.net/fnxch2/vtvcantho_abr.smil/chunklist_b4200000.m3u8
 #EXTINF:0 tvg-id="vtvcantho" group-title=" VTV" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV Cần Thơ sv2
 https://liveh12.vtvprime.vn:443/hls/VTVCANTHO_HD/04.m3u8
 #EXTINF:0 tvg-id="vtv7hd" group-title=" VTV" tvg-logo="https://i.imgur.com/AgamSNe.png",VTV7
@@ -37,7 +35,7 @@ https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="vtv8hd" group-title=" VTV" tvg-logo="https://i.imgur.com/lpcltL9.png",VTV8 sv2
 https://liveh12.vtvprime.vn:443/hls/VTV8_HD/04.m3u8
 #EXTINF:0 tvg-id="vtv9hd" group-title=" VTV" tvg-logo="https://i.imgur.com/Ex1VkGQ.png",VTV9
-https://live.fptplay53.net/fnxhd1/vtv9_vhls.smil/chunklist_b5000000.m3u8
+https://live.fptplay53.net/epzch2/vtv9hd_abr.smil/chunklist_b4200000.m3u8
 #EXTINF:0 tvg-id="vtv9hd" group-title=" VTV" tvg-logo="https://i.imgur.com/Ex1VkGQ.png",VTV9 sv2
 https://liveh12.vtvprime.vn:443/hls/VTV9_HD/04.m3u8
 #EXTINF:0 tvg-id="vtv9hd" group-title=" VTV" tvg-logo="https://i.imgur.com/Ex1VkGQ.png",VTV9 sv3
@@ -67,7 +65,7 @@ https://vc.101vn.com/htv/htvcmb.php?id=2669
 #EXTINF:-1 tvg-id="htv3" group-title="HTV" tvg-logo="https://i.ibb.co/TP063Mw/HTV3-BEARTV.png",HTV3
 https://live.fptplay53.net/epzhd1/htv3_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="htv3" group-title="HTV" tvg-logo="https://i.ibb.co/TP063Mw/HTV3-BEARTV.png",HTV3 sv2
-https://liveh12.vtvprime.vn/hls/HTV3/03.m3u8
+https://liveh12byt.vtvprime.vn/hls/HTV3/03.m3u8
 #EXTINF:-1 tvg-id="htvkey" group-title="HTV" tvg-logo="https://i.ibb.co/nL6Lg9X/HTVKEY-BEARTV.png",HTV KEY
 https://live.fptplay53.net/epzhd1/htv4_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="htvkey" group-title="HTV" tvg-logo="https://i.ibb.co/nL6Lg9X/HTVKEY-BEARTV.png",HTV KEY sv2
@@ -1324,6 +1322,5 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/tlc.smil/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"NPGQjP4uBe4GAEbUDxSuyQ","kid":"CG0JpAv/OgCqbdTbr5wTsg"}],"type":"temporary"}
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/wtv.smil/manifest.mpd
-
 
 
